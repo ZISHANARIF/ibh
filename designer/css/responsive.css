@@ -761,7 +761,8 @@ main {
     }
 
     .section-title,.history-timeline-swiper .swiper-slide,.partner-heading,.heading-text,.Marektheading,
-    .stats-counter .counter-number,.metric-item .metric-number{
+    .stats-counter .counter-number,.metric-item .metric-number,.contact-heading
+{
         font-size: 24px;
     }
     .card-body,.blog-card .card-body,.main-content105,.faq-nav-tabs .nav-link.active,.faq-nav-tabs .nav-link{
@@ -770,13 +771,6 @@ main {
     .faq-nav-tabs .nav-link{
         margin:0.3rem;
     }
-    .contact-details-wrapper{
-        padding: 20px;
-    }
-    .bar-label {
-        left: -25%;
-    }
- 
 
     
     .project-tabs .nav-link,.faq-nav-vertical .nav-link{
@@ -807,11 +801,6 @@ main {
     height: 43px;
     background: transparent;
 }
-
-.read-more-btnX{
-
-}
-   
 
 
     .leadsureheading,.faq-title,.market-area h2,.metric-item .metric-label{
@@ -847,7 +836,21 @@ main {
   .contact-details-box {
     padding: 0.5rem 1rem;
   }
+
+  .feature-item{
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+  }
+  .enquiry-form-card{
+    margin-bottom: 10px;
+  }
+  .sub-footer {
+        padding: 1rem 0.2rem 4rem 0.2rem;
+    }
   
+    .con{
+        height: 1px;
+    }
 }
 
 

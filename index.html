@@ -3,224 +3,396 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Product Range Section</title>
+    <title>Contact Section</title>
 
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
-
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.css">
+    
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
 
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet">
 
     <style>
         /*
-          START: Provided Color Theme
+         * CUSTOM, CLASS-BASED CSS
         */
-        :root {
-            --primary-color: #002f5c;
-            --secondary-color: #f40c0c;
-            --btn-colo2: #f40c0c;
-            --btn-color: #002f5c;
-            --hover-color1: #00508a;
-            --hover-color2: #f40c0c;
+        .contact-section-wrapper {
+            font-family: 'Poppins', sans-serif;
+            /* The light purple-gray background color */
+            background-color: #F0F2F7;
+            overflow-x: hidden;
+        }
 
-            --bg1-color: #ffffff;
-            --bg2-color: #f4f4f4;
-            --para-color: #3c3c3c;
-            --heading-color: #1a1a1a;
-            --hover-text: #000000;
-            --white: #ffffff;
-            --dark-text: #0a0a0a;
-        }
-      
-        .product-range-section {
-            background-color: var(--bg1-color);
-        }
-        .product-card {
-            /* This is the main container for the animation.
-              We use a subtle shadow from Bootstrap.
+        /* 1. Top Dark Header */
+        .contact-header {
+            /* Matches the dark background from screenshot */
+            background-color: #2F323A;
+            color: #ffffff;
+            /* * Add padding, but less at the bottom, 
+             * because the content area will provide its own top padding.
             */
-            position: relative;
-            overflow: hidden; 
-            background-color: var(--bg1-color);
-            border-radius: 0.5rem;
-            box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.05);
-            transition: all 1.3s ease-in-out;
+            padding: 4rem 0 8rem 0;
         }
 
-        .product-card:hover {
-            box-shadow: 0 0.5rem 1.5rem rgba(0, 0, 0, 0.1);
-            transform: translateY(-5px);
+        .contact-header-link {
+            font-size: 0.75rem;
+            font-weight: 600;
+            color: #fff;
+            border: 1px solid #fff;
+            padding: 0.3rem 0.8rem;
+            border-radius: 4px;
+            text-decoration: none;
+            /* Make it look like the screenshot */
+            letter-spacing: 0.5px;
+            text-transform: uppercase;
         }
 
-        /*
-          This wrapper holds the default content (static bearing image)
-        */
-        .product-default-content {
-            padding: 1.5rem;
-            text-align: center;
-            /* This is what we animate *out*
-              It will fade, blur, and move up.
+        .contact-header-link:hover {
+            background-color: #fff;
+            color: #2F323A;
+        }
+
+        .contact-heading {
+            font-size: 3.5rem; /* Large, impactful heading */
+            font-weight: 700;
+            line-height: 1.2;
+            max-width: 500px; /* Constrain width like in image */
+        }
+        
+        /* Media query for smaller screens */
+        @media (max-width: 767.98px) {
+            .contact-heading {
+                font-size: 2.5rem;
+            }
+            .contact-header {
+                /* Less padding on mobile, form will stack below */
+                padding: 3rem 0 3rem 0;
+            }
+        }
+
+        /* 2. Main Content & Form */
+        .contact-content {
+            /* * This negative margin pulls the whole content
+             * row UP, making it overlap the dark header.
             */
-            transition: all 1.3s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+            margin-top: -6rem;
+        }
+        
+        /* On mobile, remove the overlap */
+        @media (max-width: 991.98px) {
+            .contact-content {
+                margin-top: 0;
+            }
+            .contact-left-col {
+                /* Add padding on mobile when stacked */
+                padding: 2rem 1rem;
+            }
+        }
+        
+        /* Left Column Content */
+        .contact-subheading {
+            color: #2F323A;
+            font-size: 1.25rem;
+            font-weight: 400;
         }
 
-        /*
-          This wrapper holds the hover content (context image + text)
-        */
-        .product-hover-content {
-            /* It's positioned absolutely to sit *on top* of the default content.
-              It starts invisible (opacity: 0) and slightly below (translateY).
-            */
-            position: absolute;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-            padding: 1.5rem;
-            text-align: center;
-            background-color: var(--white);
-
-            display: flex;
-            flex-direction: column;
-            justify-content: center;
-            
-            /* This is what we animate *in* */
-            opacity: 0;
-            transform: translateY(20px);
-            transition: all 1.3s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+        .contact-phone {
+            color: #1A2C4E;
+            font-size: 1.75rem;
+            font-weight: 700;
+            text-decoration: none;
         }
 
-        .product-hover-image {
-            width: 100%;
-            height: 150px; /* Give a consistent height */
-            object-fit: cover;
-            border-radius: 0.25rem;
+        .contact-phone:hover {
+            color: #1A2C4E;
+        }
+
+        .contact-phone .bi-telephone-fill {
+            font-size: 1.5rem;
+            vertical-align: middle;
+        }
+        
+        .contact-section-title {
+            color: #1A2C4E;
+            font-weight: 600;
+            font-size: 1.25rem;
             margin-bottom: 1rem;
         }
 
-        .product-hover-subtitle {
-            font-size: 0.9rem;
-            color: var(--para-color);
+        .benefits-list {
+            list-style: none;
+            padding-left: 0;
+            color: #1A2C4E;
+            font-weight: 500;
         }
 
-        /*
-          *** THE HOVER ANIMATION ***
-        */
-
-        .product-card:hover .product-default-content {
-            /* On hover, fade out, blur, and move up */
-            opacity: 0;
-            filter: blur(5px);
-            transform: translateY(-20px);
-        }
-
-        .product-card:hover .product-hover-content {
-            /* On hover, fade in and move to correct position */
-            opacity: 1;
-            transform: translateY(0);
+        .benefits-list li {
+            padding-left: 2rem;
+            position: relative;
+            margin-bottom: 0.5rem;
         }
         
-        /* Static "View Product" link at the bottom
-          This link is *outside* the animation wrappers.
-        */
-        .product-link {
+        .benefits-list li .bi-check-circle-fill {
+            position: absolute;
+            left: 0;
+            top: 4px;
+            color: #1D4ED8; /* A strong blue for the checkmark */
+        }
+        
+        /* Timeline */
+        .timeline-step {
+            position: relative;
+            padding-left: 2rem;
+        }
+        
+        .timeline-step .timeline-number {
+            position: absolute;
+            left: 0;
+            top: -5px;
+            font-size: 1.5rem;
+            font-weight: 600;
+            color: #2F323A;
+        }
+        
+        .timeline-step strong {
             display: block;
-            text-decoration: none;
-            color: var(--btn-color); /* Use primary color */
+            font-weight: 600;
+            color: #2F323A;
+        }
+        
+        .timeline-step span {
+            font-size: 0.9rem;
+            color: #6c757d;
+        }
+
+        /* Right Column Form */
+        .contact-form-card {
+            border: none;
+            /* The floating card effect */
+            border-radius: 12px;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+        }
+        
+        .contact-form-title {
+            color: #1A2C4E;
+            font-weight: 700;
+            font-size: 1.5rem;
+        }
+        
+        /* Form Styling */
+        .form-label {
+            font-weight: 600;
+            color: #333;
+            font-size: 0.9rem;
+        }
+
+        /* Red asterisk for required fields */
+        .form-label.required::after {
+            content: ' *';
+            color: #D9534F;
+        }
+
+        .form-control {
+            border-radius: 8px;
+            padding: 0.75rem 1rem;
+            border: 1px solid #ced4da;
+        }
+        
+        .form-control:focus {
+            border-color: #1D4ED8;
+            box-shadow: 0 0 0 0.25rem rgba(29, 78, 216, 0.25);
+        }
+
+        .form-control::placeholder {
+            color: #adb5bd;
+        }
+        
+        .btn-submit {
+            background-color: #1A2C4E;
+            border-color: #1A2C4E;
+            color: #fff;
             font-weight: 600;
             padding: 0.75rem 1.5rem;
-            border-top: 1px solid var(--bg2-color); /* Light border */
-            transition: all 1.3s ease;
+            border-radius: 8px;
         }
-
-        .product-link:hover {
-            background-color: var(--bg2-color);
-            color: var(--hover-color1);
-        }
-
-        .product-title {
-            color: var(--heading-color);
-            font-weight: 600;
-            margin-bottom: 0;
+        
+        .btn-submit:hover {
+            background-color: #101c33;
+            border-color: #101c33;
         }
 
     </style>
 </head>
 <body>
 
-    <section class="product-range-section py-5">
-        <div class="container">
-            <div class="text-center mb-5">
-                <h2 class="display-5 fw-bold" style="color: var(--heading-color);">Our Products Range</h2>
-                <p class="fs-5" style="color: var(--para-color);">
-                    Explore our comprehensive selection of high-quality bearings.
-                </p>
-            </div>
+    <section class="contact-section-wrapper">
 
-            <div class="row g-4">
-
-                <div class="col-lg-4 col-md-6 col-12">
-                    <div class="product-card">
-                        <div class="product-default-content">
-                            <img src="https://media.istockphoto.com/id/488545530/photo/gearwheel-on-work.jpg?s=612x612&w=0&k=20&c=T1A5LNWmxTrt7JPpa1AGCBNR3yWfWA4qJTsG1VvEN5g=" alt="Ball Bearings" class="img-fluid mb-4">
-                            <h5 class="product-title">Ball Bearings</h5>
-                        </div>
-
-                        <div class="product-hover-content">
-                            <img src="https://media.istockphoto.com/id/847286748/photo/rusty-valve-gear.jpg?s=612x612&w=0&k=20&c=kKJgUs0Mospw1mxuHvQkCkuXwsviBacpEULEqjxywzY=" alt="Ball Bearings in use" class="product-hover-image">
-                            <h5 class="product-title">Ball Bearings</h5>
-                            <p class="product-hover-subtitle">
-                                Precision in motion, strength in every turn.
-                            </p>
-                        </div>
-
-                        <a href="#" class="product-link">View Product</a>
-                    </div>
-                </div>
-
-                <div class="col-lg-4 col-md-6 col-12">
-                    <div class="product-card">
-                        <div class="product-default-content">
-                            <img src="https://i.imgur.com/j4p4i0I.png" alt="Cylindrical Roller Bearing" class="img-fluid mb-4">
-                            <h5 class="product-title">Cylindrical Roller Bearing</h5>
-                        </div>
-
-                        <div class="product-hover-content">
-                            <img src="https://i.imgur.com/7xG43p1.jpeg" alt="Cylindrical Bearing in use" class="product-hover-image">
-                            <h5 class="product-title">Cylindrical Roller Bearing</h5>
-                            <p class="product-hover-subtitle">
-                                Powering heavy loads with precision.
-                            </p>
-                        </div>
+        <div class="contact-header">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12">
+                        <a href="#contact-form" class="contact-header-link mb-4 d-inline-block">CONTACT US</a>
                         
-                        <a href="#" class="product-link">View Product</a>
+                        <h1 class="contact-heading">
+                            Partner with Us for Bearing Solution
+                        </h1>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="row contact-content">
+
+                <div class="col-lg-7 contact-left-col">
+                    <p class="contact-subheading mb-4">
+                        We're happy to answer any questions you may have and help
+                        you determine which of our services best fit your needs.
+                    </p>
+
+                    <a href="tel:+91-11-40110440" class="contact-phone d-block mb-4">
+                        <i class="bi bi-telephone-fill me-2"></i>
+                        +91-11-40110440
+                    </a>
+
+                    <h3 class="contact-section-title mt-5">Your benefits:</h3>
+                    <div class="row">
+                        <div class="col-md-6">
+                            <ul class="benefits-list">
+                                <li><i class="bi bi-check-circle-fill"></i> Client-oriented</li>
+                                <li><i class="bi bi-check-circle-fill"></i> Independent</li>
+                                <li><i class="bi bi-check-circle-fill"></i> Competent</li>
+                            </ul>
+                        </div>
+                        <div class="col-md-6">
+                            <ul class="benefits-list">
+                                <li><i class="bi bi-check-circle-fill"></i> Result-driven</li>
+                                <li><i class="bi bi-check-circle-fill"></i> Trusted Partner</li>
+                                <li><i class="bi bi-check-circle-fill"></i> Transparent</li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <h3 class="contact-section-title mt-5">What happens next?</h3>
+                    <div class="row">
+                        <div class="col-md-4 mb-3">
+                            <div class="timeline-step">
+                                <span class="timeline-number">1</span>
+                                <strong>Schedule a Call at</strong>
+                                <span>Your Convenience</span>
+                            </div>
+                        </div>
+                        <div class="col-md-4 mb-3">
+                            <div class="timeline-step">
+                                <span class="timeline-number">2</span>
+                                <strong>Join a Discovery</strong>
+                                <span>Consultation</span>
+                            </div>
+                        </div>
+                        <div class="col-md-4 mb-3">
+                            <div class="timeline-step">
+                                <span class="timeline-number">3</span>
+                                <strong>Receive a Tailored</strong>
+                                <span>Proposal</span>
+                            </div>
+                        </div>
                     </div>
                 </div>
 
-                <div class="col-lg-4 col-md-6 col-12">
-                    <div class="product-card">
-                        <div class="product-default-content">
-                            <img src="https://i.imgur.com/T0a7A7A.png" alt="Tapered Roller Bearings" class="img-fluid mb-4">
-                            <h5 class="product-title">Tapered Roller Bearings</h5>
-                        </div>
+                <div class="col-lg-5" id="contact-form">
+                    <div class="card contact-form-card p-4 p-md-5">
+                        <div class="card-body">
+                            
+                            <h2 class="contact-form-title text-center mb-4">
+                                Ask Questions 😊
+                            </h2>
 
-                        <div class="product-hover-content">
-                            <img src="https://i.imgur.com/B9Bw8pC.jpeg" alt="Tapered Bearing in use" class="product-hover-image">
-                            <h5 class="product-title">Tapered Roller Bearings</h5>
-                            <p class="product-hover-subtitle">
-                                Engineered solutions for easy industry.
-                            </p>
-                        </div>
+                            <form action="#" method="POST">
+                                <div class="row">
 
-                        <a href="#" class="product-link">View Product</a>
+                  <div class="col-md-6 mb-3">
+
+                    <input type="text" class="form-control" name="name" placeholder="Full Name*">
+
+                  </div>
+
+                  <div class="col-md-6 mb-3">
+
+                    <input type="email" name="email" class="form-control" placeholder="Email*">
+
+                  </div>
+
+                </div>
+
+                <div class="row">
+
+                  <div class="col-md-6">
+
+                    <div class="mb-3">
+                      <input type="tel" class="form-control form-control-lg enquiry-input telePhone" placeholder="Mobile Number" name="phone" required>
+                      <!-- Keep any hidden inputs you use for country code -->
+                      <input type="hidden" name="dial_code" id="code">
+                      <input type="hidden" name="countryName" id="countryName">
+                    </div>
+
+
+
+
+
+                  </div>
+
+
+
+                  <div class="col-md-6 mb-3">
+
+                    <input type="text" name="location" class="form-control" placeholder="Location*">
+
+                  </div>
+
+                </div>
+
+                <div class="mb-3">
+
+                  <textarea class="form-control" name="message" rows="4" placeholder="Tell how can I help you"></textarea>
+
+                </div>
+
+                <div class="col-12 mb-3">
+
+
+
+                  <div class="mb-3">
+                    <!-- If you already load Google's script, this will render the real widget -->
+                    <div class="form-group mb-0">
+                      <div class="g-recaptcha" data-sitekey="Your_site_key"></div>
+                    </div>
+
+                  </div>
+
+                </div>
+
+                <button type="submit" name="homeSubmit" class="main-btn w-100">Send Enquiry <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-chat-square-text" viewBox="0 0 16 16">
+
+                    <path d="M14 1a1 1 0 0 1 1 1v8a1 1 0 0 1-1 1h-2.5a2 2 0 0 0-1.6.8L8 14.333 6.1 11.8a2 2 0 0 0-1.6-.8H2a1 1 0 0 1-1-1V2a1 1 0 0 1 1-1zM2 0a2 2 0 0 0-2 2v8a2 2 0 0 0 2 2h2.5a1 1 0 0 1 .8.4l1.9 2.533a1 1 0 0 0 1.6 0l1.9-2.533a1 1 0 0 1 .8-.4H14a2 2 0 0 0 2-2V2a2 2 0 0 0-2-2z"></path>
+
+                    <path d="M3 3.5a.5.5 0 0 1 .5-.5h9a.5.5 0 0 1 0 1h-9a.5.5 0 0 1-.5-.5M3 6a.5.5 0 0 1 .5-.5h9a.5.5 0 0 1 0 1h-9A.5.5 0 0 1 3 6m0 2.5a.5.5 0 0 1 .5-.5h5a.5.5 0 0 1 0 1h-5a.5.5 0 0 1-.5-.5"></path>
+
+                  </svg></button>
+
+                            </form>
+
+                        </div>
                     </div>
                 </div>
 
-            </div> </div> </section>
+            </div>
+        </div>
+        
+        <div style="height: 5rem;"></div>
+
+    </section>
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
-
 </body>
 </html>

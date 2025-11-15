@@ -17,73 +17,227 @@
 
     <main>
 
+
         <!-- ===== Breadcrumb Hero (bc01) ===== -->
-    <div class="img-breadcum">
-      <div class="container">
-        <img src="https://media.istockphoto.com/id/94916159/photo/inside-the-clock.jpg?s=612x612&w=0&k=20&c=1O5Y5p5ufn-ut5xTGRIDyNSPpVIpSRWXNzzRL6xVO0I="title="About Us" alt="About Us" />
-        <div class="sub-tt">IBH Brass Gear</div>
-        <div class="tt">IBH Brass Gear</div>
-      </div>
-    </div>
-    <div class="breadcum-sec">
-      <div class="container">
-        <ul>
-          <li><a href="/index.php" title="Home">Home</a></li>
-          <li>About Us</li>
-        </ul>
-      </div>
-    </div>
-
-
-
-
-  <section class="help-section leadsure">
-        <div class="container">
-            <div class="row d-flex align-items-center">
-
-                <div class="col-lg-6 col-md-12 mb-4 mb-lg-0">
-                    
-                    <div class="section-title">
-                        We're here to help
-                    </div>
-
-                    <p class="leadsurepara fs-5">
-                        Have a question or need assistance? Our team is ready
-                        to provide you with the support you need. Whether
-                        you're looking for more information about our products
-                        or services, or need help with an existing project, we're
-                        just a message or call away. Reach out to us, and we'll
-                        make sure to get back to you as quickly as possible.
-                    </p>
-
-                </div>
-
-                <div class="col-lg-6 col-md-12">
-                    
-                    <div class="location-block mb-4">
-                        <span class="location-country">INDIA</span>
-                        <span class="location-city">New Delhi</span>
-                    </div>
-
-                    <div class="address-block mb-2">
-                        <div class="ledsuresubheading">CORPORATE OFFICE</div>
-                        <p class="ledsuresubheading">504, DLF Towers, Shivaji Marg, New Delhi-110015</p>
-                        <a class="contact-number">+91-11-40110440</a>
-                    </div>
-
-                    <div class="address-block">
-                        <div class="ledsuresubheading">SALES OFFICE</div>
-                        <p class="ledsuresubheading">63, First Floor, Shardhanand Marg, Delhi-110006</p>
-                        <a class="contact-number">+91-11-40526161</a>
-                    </div>
-
-                </div>
+        <div class="img-breadcum">
+            <div class="container">
+                <img src="https://media.istockphoto.com/id/94916159/photo/inside-the-clock.jpg?s=612x612&w=0&k=20&c=1O5Y5p5ufn-ut5xTGRIDyNSPpVIpSRWXNzzRL6xVO0I=" title="About Us" alt="About Us" />
+                <div class="sub-tt">IBH Brass Gear</div>
+                <div class="tt">IBH Brass Gear</div>
             </div>
         </div>
-    </section>
+        <div class="breadcum-sec">
+            <div class="container">
+                <ul>
+                    <li><a href="/index.php" title="Home">Home</a></li>
+                    <li>About Us</li>
+                </ul>
+            </div>
+        </div>
 
 
-     <section class="contact-section-wrapper">
+
+        <!-- ***********************our projects section code************************* -->
+
+        <div class="portfolio-section leadsure">
+
+            <div class="container">
+
+                <div class="section-header text-center">
+
+                    <div class="section-title wow fadeInLeft animated" data-wow-delay=".1s">IBH Brass Gearing – Where We Serve</div>
+
+
+
+                </div>
+
+
+
+                <div class="row g-4 wow fadeInRight animated" data-wow-delay=".1s">
+
+
+                    <div class="col-lg-4 col-md-6">
+
+                        <div class="portfolio-card">
+
+                            <img src="https://media.istockphoto.com/id/2226487332/photo/conilon-coffee-plantations-in-the-hills-and-hills-of-brazil.jpg?s=612x612&w=0&k=20&c=7QfvfDe37JRssct7_v_jsokS2G0Eg0Lfs8tIIw9Su8A="
+                                alt="NEW PARLIAMENT BUILDING, CENTRAL VISTA PROJECT WORK"
+                                title="NEW PARLIAMENT BUILDING, CENTRAL VISTA PROJECT WORK"
+                                class="portfolio-image">
+
+                            <div class="portfolio-caption">
+
+                                <div>
+
+                                    <div class="leadsuresubheading text-light">Agriculter</div>
+
+
+
+                                </div>
+
+
+
+                            </div>
+
+                        </div>
+
+                    </div>
+
+
+                    <div class="col-lg-4 col-md-6">
+
+                        <div class="portfolio-card">
+
+                            <img src="https://media.istockphoto.com/id/1460170484/photo/transportation-and-technology-concept-its-mobility-as-a-service-telecommunication-iot-ict.jpg?s=612x612&w=0&k=20&c=PqfiF9PlKXpeug9P2SM2W2aB2O_6a-JCc9Qb-109rjo="
+                                alt="PHASE-IV DELHI METRO"
+                                title="PHASE-IV DELHI METRO"
+                                class="portfolio-image">
+
+                            <div class="portfolio-caption">
+
+                                <div>
+
+                                    <div class="leadsuresubheading text-light">Automotive</div>
+
+
+                                </div>
+
+
+                            </div>
+
+                        </div>
+
+                    </div>
+
+
+                    <div class="col-lg-4 col-md-6">
+
+                        <div class="portfolio-card">
+
+                            <img src="https://media.istockphoto.com/id/1303278496/photo/water-pumps.jpg?s=612x612&w=0&k=20&c=lTGfaR2CFjY3TyyTkOiLS1A51iRlrsIDrq9mCKPhXzI="
+                                alt="BJP BHAVAN"
+                                title="BJP BHAVAN"
+                                class="portfolio-image">
+
+                            <div class="portfolio-caption">
+
+                                <div>
+
+                                    <div class="leadsuresubheading text-light">Pumps & Moter</div>
+
+
+
+                                </div>
+
+
+
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                    <div class="col-lg-4 col-md-6">
+
+                        <div class="portfolio-card">
+
+                            <img src="https://media.istockphoto.com/id/1027568264/photo/crane-and-building-construction-site-with-blueprint.jpg?s=612x612&w=0&k=20&c=4Nk3jsJ1c6lzsJwvA-kWb-mAD2dgLekoXawSGmsTI-s="
+                                alt="BJP BHAVAN"
+                                title="BJP BHAVAN"
+                                class="portfolio-image">
+
+                            <div class="portfolio-caption">
+
+                                <div>
+
+                                    <div class="leadsuresubheading text-light">Home Appliance</div>
+
+
+
+                                </div>
+
+
+
+                            </div>
+
+                        </div>
+
+                    </div>
+
+
+
+                    <div class="col-lg-4 col-md-6">
+
+                        <div class="portfolio-card">
+
+                            <img src="https://media.istockphoto.com/id/1195289879/photo/sugar-cane-industry-factory-structure.jpg?s=612x612&w=0&k=20&c=_f_iIzE_vi7RZPbTTKdXKtTlMlE-QqhINtboaRQO0nY="
+                                alt="BJP BHAVAN"
+                                title="BJP BHAVAN"
+                                class="portfolio-image">
+
+                            <div class="portfolio-caption">
+
+                                <div>
+
+                                    <div class="leadsuresubheading text-light">Sugar Processing</div>
+
+
+
+                                </div>
+
+
+
+                            </div>
+
+                        </div>
+
+                    </div>
+
+
+
+                    <div class="col-lg-4 col-md-6">
+
+                        <div class="portfolio-card">
+
+                            <img src="https://media.istockphoto.com/id/470309496/photo/oil-refinery-at-evening.jpg?s=612x612&w=0&k=20&c=jeUXMJTMZRsJmojNf1K0i3Tq2dGM0Cv4RRExtGJVKao="
+                                alt="BJP BHAVAN"
+                                title="BJP BHAVAN"
+                                class="portfolio-image">
+
+                            <div class="portfolio-caption">
+
+                                <div>
+
+                                    <div class="leadsuresubheading text-light">Oil and gas</div>
+
+
+
+                                </div>
+
+
+
+                            </div>
+
+                        </div>
+
+                    </div>
+
+
+
+
+
+                </div>
+
+
+
+            </div>
+
+
+
+        </div>
+
+
+          <section class="contact-section-wrapper">
 
       <div class="contact-header container">
         <div class="container">
@@ -252,17 +406,8 @@
 
             <div class="con"></div>
 
-  </section>
 
-  <div class="map-container-51">
-
-
-
-                <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7001.583534580094!2d77.158762!3d28.665953000000002!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d0384144a08f7%3A0x8b95151956028ded!2sIBH%20Bearings%20Pvt%20Ltd!5e0!3m2!1sen!2sin!4v1763061241569!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-            </div>
-
-
-  
+    </section>
 
 
 
@@ -276,7 +421,6 @@
     <?php include "app_bottom.php" ?>
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
-
 
 </body>
 

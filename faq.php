@@ -19,20 +19,20 @@
 
         <!-- ===== Breadcrumb Hero (bc01) ===== -->
         <div class="img-breadcum">
-            <div class="container">
-                <img src="https://media.istockphoto.com/id/1365089167/photo/water-is-pouring-from-the-shower-head-into-the-shower-room.jpg?s=612x612&w=0&k=20&c=uv_f98kU5XMDJdHDUiU58xQDu6DIeeLKdGF4ys97CE0=" title="About Us" alt="About Us" />
-                <h1 class="sub-tt">Speed Bath Tech</h1>
-                <h2 class="tt">Speed Bath Tech</h2>
-            </div>
-        </div>
-        <div class="breadcum-sec">
-            <div class="container">
-                <ul>
-                    <li><a href="./index.php" title="Home">Home</a></li>
-                    <li>Faq</li>
-                </ul>
-            </div>
-        </div>
+      <div class="container">
+        <img src="https://media.istockphoto.com/id/94916159/photo/inside-the-clock.jpg?s=612x612&w=0&k=20&c=1O5Y5p5ufn-ut5xTGRIDyNSPpVIpSRWXNzzRL6xVO0I="title="About Us" alt="About Us" />
+        <div class="sub-tt">IBH Brass Gear</div>
+        <div class="tt">IBH Brass Gear</div>
+      </div>
+    </div>
+    <div class="breadcum-sec">
+      <div class="container">
+        <ul>
+          <li><a href="/index.php" title="Home">Home</a></li>
+          <li>Faq</li>
+        </ul>
+      </div>
+    </div>
 
 
 

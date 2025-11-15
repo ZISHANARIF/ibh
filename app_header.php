@@ -31,7 +31,7 @@
                 <div class="col-lg-7 col-md-6  mobile_hide">
                     <div class="Marquee">
                         <div class="Marquee-content">
-                            <p class="Marquee-tag mb-0">Maximum power, lasting quality, and dedicated support—UltraTouch is the nation's choice.</p>
+                            <p class="Marquee-tag mb-0">IBH Brass Gearing by IBH represents the perfect blend of advanced engineering, superior material quality, and long-term reliability. Designed for precision-driven performance</p>
                         </div>
                     </div>
                 </div>
@@ -88,143 +88,82 @@
                                 <ul class="ls-dropdown">
 
                                     <li class="ls-dropdown">
-                                        <a href="#" title="Toothbrush Holders">Angle Grinder
+                                        <a href="category.php" title="Ball Bearings">Ball Bearings
 
 
                                         </a>
-                                        <!-- <ul class="ls-dropdown">
-                                             <li><a href="#" title="lorem ipsum">Round Shower</a></li>
-                                             <li><a href="#" title="lorem ipsum">Round Shower Head</a></li>
-                                             <li><a href="#" title="lorem ipsum">Bathroom Shower</a></li>
-                                             <li><a href="#" title="lorem ipsum">Premium Bathroom Shower</a></li>
-
-                                        </ul> -->
+                                       
                                     </li>
 
                                     <li class="ls-dropdown">
-                                        <a href="#" title="lorem">Marble Cutter</a>
-                                        <!-- <ul class="ls-dropdown">
-                                              <li><a href="#" title="lorem ipsum">Overhead Shower</a></li>
-                                             <li><a href="#" title="lorem ipsum">Shower Head</a></li>
-                                             <li><a href="#" title="lorem ipsum">Premium Overhead Shower</a></li>
-                                           
-                                        </ul> -->
+                                        <a href="#" title="lorem">Cylindrical Roller Bearing</a>
+                                       
                                     </li>
 
                                     <li class="ls-dropdown">
-                                        <a href="#" title="lorem">Grinding Wheel
+                                        <a href="#" title="lorem">Tapered Roller Bearings
                                         </a>
-                                        <!-- <ul class="ls-dropdown">
-                                             <li><a href="#" title="lorem ipsum">Rain Shower Head</a></li>
-                                             <li><a href="#" title="lorem ipsum">Rain shower bathroom</a></li>
-                                             <li><a href="#" title="lorem ipsum">Wall Mounted Rain Shower Head</a></li>
-
-                                        </ul> -->
+                                       
                                     </li>
 
                                     <li class="ls-dropdown">
-                                        <a href="#" title="lorem">Cutting Wheel
+                                        <a href="#" title="lorem">Plummer Block Housing
                                         </a>
-                                        <!-- <ul class="ls-dropdown">
-                                             <li><a href="#" title="lorem ipsum">Ceiling Shower Head</a></li>
-                                              <li><a href="#" title="lorem ipsum">Ceiling Shower Bathroom</a></li>
-                                             <li><a href="#" title="lorem ipsum">Bathroom Ceiling Shower</a></li>
-                                             <li><a href="#" title="lorem ipsum">Ceiling Rain Shower</a></li>
-                                             <li><a href="#" title="lorem ipsum">Ceiling Mounted Shower</a></li>
-                                             <li><a href="#" title="lorem ipsum">Ceiling Rain Shower Head</a></li>
-                                             <li><a href="#" title="lorem ipsum">Roof Shower</a></li>
-
-
-                                        </ul> -->
+                                       
                                     </li>
 
 
                                     <li class="ls-dropdown">
-                                        <a href="#" title="lorem">Hammer Drill
+                                        <a href="#" title="lorem">Spherical Roller Bearings
                                         </a>
-                                        <!-- <ul class="ls-dropdown">
-                                             <li><a href="#" title="lorem ipsum">Hand Held Shower</a></li>
-                                             <li><a href="#" title="lorem ipsum">Hand Held Shower Head</a></li>
-
-                                        </ul> -->
+                                        
                                     </li>
 
                                     <li class="ls-dropdown">
-                                        <a href="#" title="lorem">Rotary Hammer
+                                        <a href="#" title="lorem">Thrust Ball Bearings
 
                                         </a>
-                                        <!-- <ul class="ls-dropdown">
-                                             <li><a href="#" title="lorem ipsum">Brass Health Faucet</a></li>
-                                             <li><a href="#" title="lorem ipsum">Premium Health Faucet</a></li>
-                                             <li><a href="#" title="lorem ipsum">Health Faucet Gun</a></li>
-                                             <li><a href="#" title="lorem ipsum">Bathroom Faucet</a></li>
-
-                                        </ul> -->
+                                        
                                     </li>
 
                                     <li class="ls-dropdown">
-                                        <a href="#" title="lorem">Cordless Drill Machine
+                                        <a href="#" title="lorem">Spherical Roller Thrust Bearings
 
                                         </a>
-                                        <!-- <ul class="ls-dropdown">
-                                             <li><a href="#" title="lorem ipsum">Brass Health Faucet</a></li>
-                                             <li><a href="#" title="lorem ipsum">Premium Health Faucet</a></li>
-                                             <li><a href="#" title="lorem ipsum">Health Faucet Gun</a></li>
-                                             <li><a href="#" title="lorem ipsum">Bathroom Faucet</a></li>
-
-                                        </ul> -->
+                                       
                                     </li>
 
                                     <li class="ls-dropdown">
-                                        <a href="#" title="lorem">Flap Wheel
+                                        <a href="#" title="lorem">Precision Machine Tool Bearings
 
                                         </a>
-                                        <!-- <ul class="ls-dropdown">
-                                             <li><a href="#" title="lorem ipsum">Brass Health Faucet</a></li>
-                                             <li><a href="#" title="lorem ipsum">Premium Health Faucet</a></li>
-                                             <li><a href="#" title="lorem ipsum">Health Faucet Gun</a></li>
-                                             <li><a href="#" title="lorem ipsum">Bathroom Faucet</a></li>
-
-                                        </ul> -->
+                                       
                                     </li>
 
                                     <li class="ls-dropdown">
-                                        <a href="#" title="lorem">Polishing Wheel
-
+                                        <a href="#" title="lorem">Pillow Blocks
                                         </a>
-                                        <!-- <ul class="ls-dropdown">
-                                             <li><a href="#" title="lorem ipsum">Brass Health Faucet</a></li>
-                                             <li><a href="#" title="lorem ipsum">Premium Health Faucet</a></li>
-                                             <li><a href="#" title="lorem ipsum">Health Faucet Gun</a></li>
-                                             <li><a href="#" title="lorem ipsum">Bathroom Faucet</a></li>
-
-                                        </ul> -->
+                                       
                                     </li>
 
                                     <li class="ls-dropdown">
-                                        <a href="#" title="lorem">Saw Blade
+                                        <a href="#" title="lorem">Japanese Bearing 
 
                                         </a>
-                                        <!-- <ul class="ls-dropdown">
-                                             <li><a href="#" title="lorem ipsum">Brass Health Faucet</a></li>
-                                             <li><a href="#" title="lorem ipsum">Premium Health Faucet</a></li>
-                                             <li><a href="#" title="lorem ipsum">Health Faucet Gun</a></li>
-                                             <li><a href="#" title="lorem ipsum">Bathroom Faucet</a></li>
-
-                                        </ul> -->
+                                       
                                     </li>
 
+                                    <li class="ls-dropdown">
+                                        <a href="#" title="lorem">Industrial Bearings
 
-
-
-
-
+                                        </a>
+                                    </li>
                                 </ul>
                             </li>
 
-                            <li><a href="blog.php" title="Blog">Blog</a></li>
-                            <li><a href="faq.php" title="Faq">Faq</a></li>
-                            <li><a href="certificate.php" title="Faq">Certificate</a></li>
+                            <li><a href="valueclient.php" title="Blog">Value to the client</a></li>
+                            <li><a href="project.php" title="Faq">Industries We Cater</a></li>
+                            <li><a href="bearinghandling.php" title="Faq">Bearing Handling</a></li>
                             <li><a href="contact.php" title="Contact">Contact</a></li>
 
 
@@ -241,10 +180,10 @@
                                 <path d="M3 3.5a.5.5 0 0 1 .5-.5h9a.5.5 0 0 1 0 1h-9a.5.5 0 0 1-.5-.5M3 6a.5.5 0 0 1 .5-.5h9a.5.5 0 0 1 0 1h-9A.5.5 0 0 1 3 6m0 2.5a.5.5 0 0 1 .5-.5h5a.5.5 0 0 1 0 1h-5a.5.5 0 0 1-.5-.5" />
                             </svg></button>
 
-                        <a class="main-btn2">Catalogue<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-download" viewBox="0 0 16 16">
+                        <!-- <a class="main-btn2">Catalogue<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-download" viewBox="0 0 16 16">
                                 <path d="M.5 9.9a.5.5 0 0 1 .5.5v2.5a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1v-2.5a.5.5 0 0 1 1 0v2.5a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2v-2.5a.5.5 0 0 1 .5-.5" />
                                 <path d="M7.646 11.854a.5.5 0 0 0 .708 0l3-3a.5.5 0 0 0-.708-.708L8.5 10.293V1.5a.5.5 0 0 0-1 0v8.793L5.354 8.146a.5.5 0 1 0-.708.708z" />
-                            </svg></a>
+                            </svg></a> -->
 
 
                     </div>

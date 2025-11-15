@@ -10,7 +10,7 @@
             </div>
 
             <div class="col-lg-4 text-center text-lg-end">
-                <a href="#" class="main-btn2">
+                <a href="#" class="main-btn3 mb-2 mb-lg-0">
                     Contact Us Now
                 </a>
             </div>
@@ -63,19 +63,18 @@
                     </div>
                 </div>
 
-                <div class="col-lg-2 col-md-6 col-12">
-                    <h5 class="fw-semibold mb-3">Links</h5>
+                <div class="col-lg-2 col-md-6 col-6">
+                    <div class="fw-semibold mb-3">Links</div>
                     <ul class="list-unstyled">
                         <li class="mb-2"><a href="#" class="footer-link">Home</a></li>
-                        <li class="mb-2"><a href="#" class="footer-link">Services</a></li>
-                        <li class="mb-2"><a href="#" class="footer-link">Projects</a></li>
-                        <li class="mb-2"><a href="#" class="footer-link">Testimonial</a></li>
-                        <li class="mb-2"><a href="#" class="footer-link">Blogs</a></li>
+                        <li class="mb-2"><a href="about.php" class="footer-link">about</a></li>
+                        <li class="mb-2"><a href="faq.php" class="footer-link">Faq</a></li>
+                        <li class="mb-2"><a href="blog.php" class="footer-link">Blogs</a></li>
                     </ul>
                 </div>
 
-                <div class="col-lg-3 col-md-6 col-12">
-                    <h5 class="fw-semibold mb-3">Our Services</h5>
+                <div class="col-lg-3 col-md-6 col-6">
+                    <div class="fw-semibold mb-3">Our Services</div>
                     <ul class="list-unstyled">
                         <li class="mb-2"><a href="#" class="footer-link">Building Erection</a></li>
                         <li class="mb-2"><a href="#" class="footer-link">Architectural Planning</a></li>
@@ -84,8 +83,8 @@
                     </ul>
                 </div>
 
-                <div class="col-lg-3 col-md-6 col-12">
-                    <h5 class="fw-semibold mb-3">Products</h5>
+                <div class="col-lg-3 col-md-6 col-6">
+                    <div class="fw-semibold mb-3">Products</div>
                     <ul class="list-unstyled">
                         <li class="mb-2"><a href="#" class="footer-link">social</a></li>
                         <li class="mb-2"><a href="#" class="footer-link">Live-Chat</a></li>
@@ -105,12 +104,15 @@
                     </div>
                     
                     <div>
-                        <ul class="list-inline mb-0">
+                        <ul class="list-inline mb-0 sub-footer">
                             <li class="list-inline-item mx-2">
-                                <a href="#" class="footer-link">Privacy Policy</a>
+                                <a href="privacy.php" class="footer-link">Privacy Policy</a>
                             </li>
                             <li class="list-inline-item mx-2">
-                                <a href="#" class="footer-link">Contact Us.</a>
+                                <a href="siteMap.php" class="footer-link">SiteMap</a>
+                            </li>
+                            <li class="list-inline-item mx-2">
+                                <a href="marketArea.php" class="footer-link">marketArea</a>
                             </li>
                         </ul>
                     </div>

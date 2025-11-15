@@ -18,21 +18,21 @@
     <main>
 
         <!-- ===== Breadcrumb Hero (bc01) ===== -->
-        <div class="img-breadcum">
-            <div class="container">
-                <img src="https://media.istockphoto.com/id/1394287688/photo/carpenter-shopping-in-hardware-store.jpg?s=612x612&w=0&k=20&c=2REACyiwXzjiTOe3J_rg4Ek6DHhq6f-bLvMnWkvHfeA=" loading="lazy" decoding="async" fetchpriority="high" title="About Us" alt="About Us" />
-                <div class="sub-tt">ultratouch</div>
-                <div class="tt">ultratouch</div>
-            </div>
-        </div>
-        <div class="breadcum-sec">
-            <div class="container">
-                <ul>
-                    <li><a href="./index.php" title="Home">Home</a></li>
-                    <li>Privacy Policy</li>
-                </ul>
-            </div>
-        </div>
+    <div class="img-breadcum">
+      <div class="container">
+        <img src="https://media.istockphoto.com/id/94916159/photo/inside-the-clock.jpg?s=612x612&w=0&k=20&c=1O5Y5p5ufn-ut5xTGRIDyNSPpVIpSRWXNzzRL6xVO0I="title="About Us" alt="About Us" />
+        <div class="sub-tt">IBH Brass Gear</div>
+        <div class="tt">IBH Brass Gear</div>
+      </div>
+    </div>
+    <div class="breadcum-sec">
+      <div class="container">
+        <ul>
+          <li><a href="/index.php" title="Home">Home</a></li>
+          <li>About Us</li>
+        </ul>
+      </div>
+    </div>
 
 
         <div class="privacy-container leadseo leadsure">

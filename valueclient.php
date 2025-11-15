@@ -2,25 +2,24 @@
 <html lang="en">
 
 <head>
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-    <title>Home</title>
-    <meta name="description" content="" />
-    <meta name="keywords" content="" />
-    <link rel="publisher" href="" />
-    <link rel="canonical" href="index.php" />
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <?php include "app_top.php" ?>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <title>Home</title>
+  <meta name="description" content="" />
+  <meta name="keywords" content="" />
+  <link rel="publisher" href="" />
+  <link rel="canonical" href="index.php" />
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <?php include "app_top.php" ?>
 </head>
 
 <body>
-    <?php include "app_header.php" ?>
+  <?php include "app_header.php" ?>
 
-    <main>
-
-        <!-- ===== Breadcrumb Hero (bc01) ===== -->
+  <main>
+    <!-- ===== Breadcrumb Hero (bc01) ===== -->
     <div class="img-breadcum">
       <div class="container">
-        <img src="https://media.istockphoto.com/id/94916159/photo/inside-the-clock.jpg?s=612x612&w=0&k=20&c=1O5Y5p5ufn-ut5xTGRIDyNSPpVIpSRWXNzzRL6xVO0I="title="About Us" alt="About Us" />
+        <img src="https://media.istockphoto.com/id/94916159/photo/inside-the-clock.jpg?s=612x612&w=0&k=20&c=1O5Y5p5ufn-ut5xTGRIDyNSPpVIpSRWXNzzRL6xVO0I=" title="About Us" alt="About Us" />
         <div class="sub-tt">IBH Brass Gear</div>
         <div class="tt">IBH Brass Gear</div>
       </div>
@@ -29,61 +28,120 @@
       <div class="container">
         <ul>
           <li><a href="/index.php" title="Home">Home</a></li>
-          <li>About Us</li>
+          <li>Value Client</li>
         </ul>
       </div>
     </div>
 
 
-
-
-  <section class="help-section leadsure">
-        <div class="container">
-            <div class="row d-flex align-items-center">
-
-                <div class="col-lg-6 col-md-12 mb-4 mb-lg-0">
-                    
-                    <div class="section-title">
-                        We're here to help
-                    </div>
-
-                    <p class="leadsurepara fs-5">
-                        Have a question or need assistance? Our team is ready
-                        to provide you with the support you need. Whether
-                        you're looking for more information about our products
-                        or services, or need help with an existing project, we're
-                        just a message or call away. Reach out to us, and we'll
-                        make sure to get back to you as quickly as possible.
-                    </p>
-
-                </div>
-
-                <div class="col-lg-6 col-md-12">
-                    
-                    <div class="location-block mb-4">
-                        <span class="location-country">INDIA</span>
-                        <span class="location-city">New Delhi</span>
-                    </div>
-
-                    <div class="address-block mb-2">
-                        <div class="ledsuresubheading">CORPORATE OFFICE</div>
-                        <p class="ledsuresubheading">504, DLF Towers, Shivaji Marg, New Delhi-110015</p>
-                        <a class="contact-number">+91-11-40110440</a>
-                    </div>
-
-                    <div class="address-block">
-                        <div class="ledsuresubheading">SALES OFFICE</div>
-                        <p class="ledsuresubheading">63, First Floor, Shardhanand Marg, Delhi-110006</p>
-                        <a class="contact-number">+91-11-40526161</a>
-                    </div>
-
-                </div>
-            </div>
+    <!--***************************** History slider section ************************* -->
+    <section class="history-section leadsure">
+      <div class="container">
+        <div class="row">
+          <div class="col-12 text-center">
+            <div class="faq-title">Value of the <span class="colordhead">Clients</span></div>
+          </div>
         </div>
+      </div>
+
+      <div class="swiper historySlider history-timeline-swiper">
+        <div class="swiper-wrapper">
+          <!-- Slides must be in the same order as content items -->
+          <div class="swiper-slide">Competitive Pricing</div>
+          <div class="swiper-slide">Service</div>
+          <div class="swiper-slide">Deliveries</div>
+          <div class="swiper-slide">Technical Support</div>
+          <div class="swiper-slide">After-Sales</div>
+          <div class="swiper-slide">1985</div>
+          <div class="swiper-slide">1986</div>
+        </div>
+      </div>
+
+      <!-- Triangle Connector -->
+      <div class="timeline-connector"></div>
+
+      <!-- 
+          Content Area
+          - This area is controlled by the Swiper JS.
+        -->
+      <div class="container">
+        <div class="row">
+          <div class="col-12 text-center">
+            <div class="history-content-wrapper">
+
+              <!-- Content 1 (Matches Slide 1: 1980) -->
+              <div class="history-content-item active">
+                <div class="leadsuresubheading fs-3 mb-4">Our Humble Beginnings</div>
+
+                <p class="zis3">
+                  Upgrade your bathroom with modern and elegant bath fittings in Delhi that combine performance, quality, and design. We offer a wide range of taps, showers, faucets, and bathroom accessories crafted to make every corner of your bathroom stylish and functional. Whether you’re building a new home or renovating your existing space, our collection ensures comfort, durability, and a touch of luxury.
+                </p>
+              </div>
+
+              <!-- Content 2 (Matches Slide 2: 1981) -->
+              <div class="history-content-item">
+                <div class="leadsuresubheading fs-3 mb-4">First Major Project</div>
+
+
+                <p class="zis3">
+                  Upgrade your bathroom with modern and elegant bath fittings in Delhi that combine performance, quality, and design. We offer a wide range of taps, showers, faucets, and bathroom accessories crafted to make every corner of your bathroom stylish and functional. Whether you’re building a new home or renovating your existing space, our collection ensures comfort, durability, and a touch of luxury.
+                </p>
+              </div>
+
+              <!-- Content 3 (Matches Slide 3: 1982) -->
+              <div class="history-content-item">
+                <div class="leadsuresubheading fs-3 mb-4">Got Our First Award</div>
+
+                <p class="zis3">
+                  Upgrade your bathroom with modern and elegant bath fittings in Delhi that combine performance, quality, and design. We offer a wide range of taps, showers, faucets, and bathroom accessories crafted to make every corner of your bathroom stylish and functional. Whether you’re building a new home or renovating your existing space, our collection ensures comfort, durability, and a touch of luxury.
+                </p>
+              </div>
+
+              <!-- Content 4 (Matches Slide 4: 1983) -->
+              <div class="history-content-item">
+                <div class="leadsuresubheading fs-3 mb-4">Expanded to New Offices</div>
+
+                <p class="zis3">
+                  Upgrade your bathroom with modern and elegant bath fittings in Delhi that combine performance, quality, and design. We offer a wide range of taps, showers, faucets, and bathroom accessories crafted to make every corner of your bathroom stylish and functional. Whether you’re building a new home or renovating your existing space, our collection ensures comfort, durability, and a touch of luxury.
+                </p>
+              </div>
+
+              <!-- Content 5 (Matches Slide 5: 1984) -->
+              <div class="history-content-item">
+                <div class="leadsuresubheading fs-3 mb-4">Reached 100 Employees</div>
+
+                <p class="zis3">
+                  Upgrade your bathroom with modern and elegant bath fittings in Delhi that combine performance, quality, and design. We offer a wide range of taps, showers, faucets, and bathroom accessories crafted to make every corner of your bathroom stylish and functional. Whether you’re building a new home or renovating your existing space, our collection ensures comfort, durability, and a touch of luxury.
+                </p>
+              </div>
+
+              <!-- Content 6 (Matches Slide 6: 1985) -->
+              <div class="history-content-item">
+                <div class="leadsuresubheading fs-3 mb-4">Went International</div>
+
+                <p class="zis3">
+                  Upgrade your bathroom with modern and elegant bath fittings in Delhi that combine performance, quality, and design. We offer a wide range of taps, showers, faucets, and bathroom accessories crafted to make every corner of your bathroom stylish and functional. Whether you’re building a new home or renovating your existing space, our collection ensures comfort, durability, and a touch of luxury.
+                </p>
+              </div>
+
+              <!-- Content 7 (Matches Slide 7: 1986) -->
+              <div class="history-content-item">
+                <div class="leadsuresubheading fs-3 mb-4">A New Era Begins</div>
+
+                <p class="zis3">
+                  Upgrade your bathroom with modern and elegant bath fittings in Delhi that combine performance, quality, and design. We offer a wide range of taps, showers, faucets, and bathroom accessories crafted to make every corner of your bathroom stylish and functional. Whether you’re building a new home or renovating your existing space, our collection ensures comfort, durability, and a touch of luxury.
+                </p>
+              </div>
+
+            </div>
+          </div>
+        </div>
+      </div>
+
     </section>
 
 
-     <section class="contact-section-wrapper">
+    <section class="contact-section-wrapper">
 
       <div class="contact-header container">
         <div class="container">
@@ -250,32 +308,23 @@
         </div>
       </div>
 
-            <div class="con"></div>
+      <div class="con"></div>
 
-  </section>
-
-  <div class="map-container-51">
-
-
-
-                <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7001.583534580094!2d77.158762!3d28.665953000000002!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d0384144a08f7%3A0x8b95151956028ded!2sIBH%20Bearings%20Pvt%20Ltd!5e0!3m2!1sen!2sin!4v1763061241569!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-            </div>
-
-
-  
+    </section>
 
 
 
 
 
-    </main>
+
+
+  </main>
 
 
 
-    <?php include "app_footer.php" ?>
-    <?php include "app_bottom.php" ?>
+  <?php include "app_footer.php" ?>
+  <?php include "app_bottom.php" ?>
 
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
 
 
 </body>

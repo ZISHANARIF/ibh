@@ -308,3 +308,71 @@ wow.init();
       document.getElementById(`mainImage${id}`).src = url;
       $(elm).addClass('active').siblings().removeClass('active');
     }
+
+
+    // **************************history  section code end*********************************************
+      // ********************history swiper slider section code*************************
+
+       
+        const allContent = document.querySelectorAll('.history-content-item');
+
+       
+        function updateContent(swiperInstance) {
+            // Get the index of the "real" active slide (works with loop)
+            var realIndex = swiperInstance.realIndex;
+            
+            // Hide all content items
+            allContent.forEach(function(item) {
+                item.classList.remove('active');
+            });
+
+            // Show the content item that matches the slide index
+            if (allContent[realIndex]) {
+                allContent[realIndex].classList.add('active');
+            }
+        }
+
+        // Initialize Swiper
+        var swiper = new Swiper(".historySlider", {
+            // Your config, modified for the timeline effect
+            slidesPerView: 2, 
+            spaceBetween: 20,
+            loop: true, 
+            autoplay: {
+                delay: 2500,
+                disableOnInteraction: false,
+            },
+            
+            // --- Modifications ---
+            centeredSlides: true,     // Added: Keeps a slide in the center
+            slideToClickedSlide: true, // Added: Lets you click to change slide
+            // pagination: { ... },  // Removed: Not in the video
+            
+            // Breakpoints modified to be odd numbers for better centering
+            breakpoints: {
+                640: {
+                    slidesPerView: 3, // Was 3, kept 3
+                    spaceBetween: 20,
+                },
+                768: {
+                    slidesPerView: 5, // Was 4, changed to 5
+                    spaceBetween: 30,
+                },
+                1024: {
+                    slidesPerView: 5, // Was 6, changed to 5
+                    spaceBetween: 20,
+                },
+            },
+
+            // --- Event Listeners ---
+            on: {
+                // When swiper loads, update the content
+                init: function () {
+                    updateContent(this);
+                },
+                // When the slide changes, update the content
+                slideChange: function () {
+                    updateContent(this);
+                }
+            }
+        });

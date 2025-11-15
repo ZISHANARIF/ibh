@@ -17,22 +17,22 @@
 
     <main>
 
-        <!-- ===== Breadcrumb Hero (bc01) ===== -->
-        <div class="img-breadcum">
-            <div class="container">
-                <img src="https://media.istockphoto.com/id/1401285340/photo/a-set-of-abrasive-grinding-wheels-for-construction-work.jpg?s=612x612&w=0&k=20&c=eU8ZWsReQLI74JN-TkzB1KeEOZN0-9qScpoqWIBVHsg=" loading="lazy" decoding="async" title="About Us" alt="About Us" />
-                <div class="sub-tt">ultratouch</div>
-                <div class="tt">ultratouch</div>
-            </div>
-        </div>
-        <div class="breadcum-sec">
-            <div class="container">
-                <ul>
-                    <li><a href="./index.php" title="Home">Home</a></li>
-                    <li>Category</li>
-                </ul>
-            </div>
-        </div>
+       <!-- ===== Breadcrumb Hero (bc01) ===== -->
+    <div class="img-breadcum">
+      <div class="container">
+        <img src="https://media.istockphoto.com/id/94916159/photo/inside-the-clock.jpg?s=612x612&w=0&k=20&c=1O5Y5p5ufn-ut5xTGRIDyNSPpVIpSRWXNzzRL6xVO0I="title="About Us" alt="About Us" />
+        <div class="sub-tt">IBH Brass Gear</div>
+        <div class="tt">IBH Brass Gear</div>
+      </div>
+    </div>
+    <div class="breadcum-sec">
+      <div class="container">
+        <ul>
+          <li><a href="/index.php" title="Home">Home</a></li>
+          <li>About Us</li>
+        </ul>
+      </div>
+    </div>
 
         <!-- **************************category section code************************************* -->
         <!-- Lab Section -->
@@ -47,7 +47,7 @@
                                 <div class="product-image-main text-center">
 
                                     <div class="image-container">
-                                        <img id="mainImage1" src="https://media.istockphoto.com/id/1401285340/photo/a-set-of-abrasive-grinding-wheels-for-construction-work.jpg?s=612x612&w=0&k=20&c=eU8ZWsReQLI74JN-TkzB1KeEOZN0-9qScpoqWIBVHsg=" loading="lazy" decoding="async" class="main-img" alt="oratory Research">
+                                        <img id="mainImage1" src="https://media.istockphoto.com/id/174101497/photo/ball-bearing.jpg?s=612x612&w=0&k=20&c=nxdxWfMVEjE-loMJvm0AWNGIbfBDLJdGcozCwvj-6t8=" loading="lazy" decoding="async" class="main-img" alt="oratory Research">
                                     </div>
                                 </div>
                             </div>
@@ -55,16 +55,16 @@
 
 
                             <div class="multi-imgs mb-2 mb-md-3">
-                                <div class="imgs active" onclick='imgMulti(1, "https://media.istockphoto.com/id/912134504/photo/metal-sawing.jpg?s=612x612&w=0&k=20&c=e8mxqZ9rfZD1C_zyNdInse17NVUdQNz-Y5Bga9fzLqM=", this)'>
-                                    <img src="https://media.istockphoto.com/id/912134504/photo/metal-sawing.jpg?s=612x612&w=0&k=20&c=e8mxqZ9rfZD1C_zyNdInse17NVUdQNz-Y5Bga9fzLqM=" alt="">
+                                <div class="imgs active" onclick='imgMulti(1, "https://media.istockphoto.com/id/503288041/photo/ball-bearings.jpg?s=612x612&w=0&k=20&c=gpVyjUCh6hgJ04sWY6n4EnN30gtxNmWmYHuUFE2xDhY=", this)'>
+                                    <img src="https://media.istockphoto.com/id/503288041/photo/ball-bearings.jpg?s=612x612&w=0&k=20&c=gpVyjUCh6hgJ04sWY6n4EnN30gtxNmWmYHuUFE2xDhY=" alt="">
                                 </div>
 
-                                <div class="imgs" onclick='imgMulti(1, "https://media.istockphoto.com/id/2000436983/photo/diamond-polishers-at-work-at-the-wheel-in-the-diamond-polishing-factory.jpg?s=612x612&w=0&k=20&c=e36JqRgjfu0ijIBU_HOJF5r9U4geHNHnjDsxc7ylnbw=", this)'>
-                                    <img src="https://media.istockphoto.com/id/2000436983/photo/diamond-polishers-at-work-at-the-wheel-in-the-diamond-polishing-factory.jpg?s=612x612&w=0&k=20&c=e36JqRgjfu0ijIBU_HOJF5r9U4geHNHnjDsxc7ylnbw=" alt="">
+                                <div class="imgs" onclick='imgMulti(1, "https://media.istockphoto.com/id/520215267/photo/stainless-bearing.jpg?s=612x612&w=0&k=20&c=REh2trq0cFj9jAHyugWSUvW0Jc3k-IPOvgmwT2ymjnM=", this)'>
+                                    <img src="https://media.istockphoto.com/id/520215267/photo/stainless-bearing.jpg?s=612x612&w=0&k=20&c=REh2trq0cFj9jAHyugWSUvW0Jc3k-IPOvgmwT2ymjnM=" alt="">
                                 </div>
 
-                                <div class="imgs" onclick='imgMulti(1, "https://media.istockphoto.com/id/1311175902/photo/grinding-workmanship-sparks-in-saw-manufacturing-workshop.jpg?s=612x612&w=0&k=20&c=wGaLbvC03n9HYtxhnI8CZ-r19kpr_piIltzzuunnLFw=", this)'>
-                                    <img src="https://media.istockphoto.com/id/1311175902/photo/grinding-workmanship-sparks-in-saw-manufacturing-workshop.jpg?s=612x612&w=0&k=20&c=wGaLbvC03n9HYtxhnI8CZ-r19kpr_piIltzzuunnLFw=" alt="">
+                                <div class="imgs" onclick='imgMulti(1, "https://media.istockphoto.com/id/177295641/photo/rotation-bodies.jpg?s=612x612&w=0&k=20&c=7fYbqd9sCXAOIoMQ9t3wbzs-EFmmHB1rQc4l44_kXoM=", this)'>
+                                    <img src="https://media.istockphoto.com/id/177295641/photo/rotation-bodies.jpg?s=612x612&w=0&k=20&c=7fYbqd9sCXAOIoMQ9t3wbzs-EFmmHB1rQc4l44_kXoM=" alt="">
                                 </div>
                                 <div class="imgs youTube">
                                     <a data-fancybox href="https://youtu.be/4Q-mCiPyWrQ?si=5XLbEAfdMxQewZXP">
@@ -99,21 +99,34 @@
 
                         <div class="col-lg-12">
                             <div class="product-description leadseo">
-                                <h2>Unleash Power and Precision with the Ultra Touch Angle Grinder</h2>
-                                <p>The Ultra Touch Angle Grinder is a high-performance power tool built for professionals who value precision, durability, and efficiency. Designed in Mumbai, this tool ensures smooth operation whether you are cutting, grinding, polishing, or finishing metal and concrete surfaces. Its compact yet powerful build makes it a must-have for workshops, fabrication units, and home users alike.</p>
+                                   <h2>Reliable Oxygen Cylinders and Oxygen Plant Solutions by IBH</h2>
+                    <p><strong>IBH</strong> is a trusted name in the field of <strong>medical oxygen systems</strong>, offering high-quality <strong>oxygen cylinders, oxygen plants, and gas distribution systems</strong> across Mumbai and India. Our solutions are designed to support hospitals, clinics, and healthcare facilities with a continuous and safe oxygen supply to ensure effective patient care.</p>
 
-                                <h2>Engineered for Performance and Long-Lasting Quality</h2>
-                                <p>Each Ultra Touch Angle Grinder is crafted using advanced technology and high-quality components to deliver consistent results even in demanding work conditions. Its powerful motor offers high torque and stable speed, making it perfect for industrial and heavy-duty applications.</p>
-                                <p>The ergonomic soft-grip handle provides excellent comfort and control during long hours of use, while its heat-resistant design ensures safety and durability. From construction sites to repair shops, the Ultra Touch Angle Grinder performs flawlessly across various tasks.</p>
-                                <p>Whether you need to smooth weld joints, cut through steel pipes, or polish metal surfaces, this grinder combines strength with precision for unmatched results every time.</p>
+                    <h2>Advanced Oxygen Plant Technology</h2>
+                    <p>At <strong>IBH</strong>, we manufacture and supply <strong>PSA (Pressure Swing Adsorption) Oxygen Plants</strong> built with advanced automation and reliable engineering. These systems are capable of generating medical-grade oxygen on-site, reducing dependency on external gas suppliers. Our plants are designed for efficient energy use, low maintenance, and long operational life — making them ideal for hospitals, nursing homes, and industrial applications.</p>
 
-                                <h3>Why Choose Ultra Touch Angle Grinder</h3>
-                                <p>The Ultra Touch Angle Grinder is trusted by technicians, builders, and metalworkers across Mumbai for its reliability, performance, and easy maintenance. It’s designed to handle heavy workloads with minimal vibration and maximum output, ensuring efficiency and comfort.</p>
+                    <p>Each <strong>IBH Oxygen Plant</strong> is equipped with high-quality filters, compressors, and control panels to ensure consistent oxygen purity levels of up to 93–95%. The systems are easy to install, operate, and maintain, providing uninterrupted oxygen generation for healthcare and emergency requirements.</p>
 
-                                <p>Each unit is quality-tested to guarantee durability, safety, and smooth performance even in tough conditions. Our commitment to engineering excellence ensures that every user experiences superior power and precision.</p>
+                    <h2>High-Quality Oxygen Cylinders and Storage Systems</h2>
+                    <p><strong>IBH</strong> supplies a wide range of <strong>oxygen cylinders</strong> in various capacities to meet hospital, laboratory, and home care needs. Manufactured using high-grade materials, our cylinders are tested under strict safety standards and certified for leak-proof performance. We also offer complete solutions for oxygen manifold systems, pipelines, and pressure regulators.</p>
 
-                                <p>With a focus on technology, durability, and user comfort, the Ultra Touch Angle Grinder stands out as a dependable power tool for every professional and DIY enthusiast in Mumbai.</p>
-                                <p>Experience the perfect balance of power, safety, and control with the Ultra Touch Angle Grinder — your trusted power tool partner for industrial and personal projects in Mumbai.</p>
+                   
+
+                    <h3>Empowering Healthcare with Reliable Oxygen Supply</h3>
+                    <p><strong>IBH</strong> is committed to ensuring every healthcare facility has access to safe and uninterrupted oxygen. Our products are trusted for their efficiency, durability, and compliance with international medical equipment standards. Whether you need a new <strong>oxygen plant installation</strong> or a steady supply of <strong>oxygen cylinders</strong>, we provide end-to-end solutions tailored to your needs.</p>
+
+                    <h3>Conclusion</h3>
+                    <p>Choose <strong>IBH</strong> for top-quality <strong>oxygen cylinders and oxygen plants in Mumbai</strong>. With our advanced technology, durable products, and reliable support, we help healthcare institutions save lives through consistent and safe oxygen supply.</p>
+                     <h2>Reliable Oxygen Cylinders and Oxygen Plant Solutions by IBH</h2>
+                    <p><strong>IBH</strong> is a trusted name in the field of <strong>medical oxygen systems</strong>, offering high-quality <strong>oxygen cylinders, oxygen plants, and gas distribution systems</strong> across Mumbai and India. Our solutions are designed to support hospitals, clinics, and healthcare facilities with a continuous and safe oxygen supply to ensure effective patient care.</p>
+
+                    <h2>Advanced Oxygen Plant Technology</h2>
+                    <p>At <strong>IBH</strong>, we manufacture and supply <strong>PSA (Pressure Swing Adsorption) Oxygen Plants</strong> built with advanced automation and reliable engineering. These systems are capable of generating medical-grade oxygen on-site, reducing dependency on external gas suppliers. Our plants are designed for efficient energy use, low maintenance, and long operational life — making them ideal for hospitals, nursing homes, and industrial applications.</p>
+
+                    <p>Each <strong>IBH Oxygen Plant</strong> is equipped with high-quality filters, compressors, and control panels to ensure consistent oxygen purity levels of up to 93–95%. The systems are easy to install, operate, and maintain, providing uninterrupted oxygen generation for healthcare and emergency requirements.</p>
+
+                    <h2>High-Quality Oxygen Cylinders and Storage Systems</h2>
+                    <p><strong>IBH</strong> supplies a wide range of <strong>oxygen cylinders</strong> in various capacities to meet hospital, laboratory, and home care needs. Manufactured using high-grade materials, our cylinders are tested under strict safety standards and certified for leak-proof performance. We also offer complete solutions for oxygen manifold systems, pipelines, and pressure regulators.</p>
 
                             </div>
                         </div>
@@ -132,7 +145,7 @@
 
         <!-- ***************Related products section code****************** -->
 
-        <section class="section-14 leadsure">
+        <section class="product-range-section leadsure">
 
             <div class="container ">
 
@@ -153,147 +166,269 @@
 
 
 
-                <div class="row  g-2 g-md-4 wow fadeInLeft" data-wow-delay=".2s">
+               <div class="row g-2 g-md-4 wow fadeInLeft animated" data-wow-delay=".1s">
 
+          <div class="col-lg-3 col-md-6 col-6">
+            <a href="#" class="service-card">
 
-                    <div class="col-6 col-lg-3 col-md-6">
-                        <div class="card h-100 shadow-sm border-0 ultproducts-card">
-                            <a href="category.php">
-                                <div class="ultproducts-img-container">
-                                    <div class="ultproducts-img-ratio">
-                                        <img
-                                            src="https://media.istockphoto.com/id/2235975316/photo/close-up-of-a-person-holding-a-heavy-duty-blue-electric-rotary-hammer-drill-in-a-hardware.jpg?s=612x612&w=0&k=20&c=oeXffuFi3XHLr3oyKFk4p_cYe3EtMApsAFBzBYwTBrE="
-                                            class="ultproducts-img-top"
-                                            alt="Product image" loading="lazy" decoding="async">
-                                    </div>
-                                </div>
-                            </a>
-                            <div class="card-body p-2 p-sm-3 p-md-4">
-                                <a href="#" class="ultproducts-title-link">
-                                    <div class="zis1">Rotary Hammer</div>
-                                </a>
+              <div class="product-card">
+                <div class="product-default-content">
+                  <img src="https://media.istockphoto.com/id/509193042/photo/cvt-gearbox-repair-closeup.jpg?s=612x612&w=0&k=20&c=fv4ZK7KYFn4Sh_tLY593P55_lvFmEu5bEVEKwFtwBm8=" alt="Ball Bearings" class="img-fluid mb-4">
+                  <div class="zis1">Ball Bearings </div>
+                  <p class="zis3 p-1">IBH brass gears are manufactured using advanced CNC technology and high-accuracy machining to ensure perfect alignment...</p>
+                </div>
 
-                                <div class="zis3">
-                                    aliquip exadipiscing elitsed do eiusmod tempor incididunt utlabore etea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur
-                                </div>
-                                <div class="mt-auto d-flex justify-content-evenly mt-1 mt-md-2">
-
-                                    <a href="category.php" title="Read More" class="main-btn"> Read More </a>
-
-                                    <a href="#sendEnquiry" class="main-btn3" data-bs-toggle="modal" title="Send Enquiry" data-bs-target="#sendEnquiry">Send Enquiry</a>
-                                </div>
-                            </div>
-
-                        </div>
-                    </div>
-
-
-                    <div class="col-6 col-lg-3 col-md-6">
-                        <div class="card h-100 shadow-sm border-0 ultproducts-card">
-                            <a href="category.php">
-                                <div class="ultproducts-img-container">
-                                    <div class="ultproducts-img-ratio">
-                                        <img
-                                            src="https://media.istockphoto.com/id/1252704926/photo/various-grinding-tools-and-safety-health-at-work.jpg?s=612x612&w=0&k=20&c=Cmgx6tpUHIERE51gzYk7pQ-xtoEyJAXYl80P6NpG6g8="
-                                            class="ultproducts-img-top"
-                                            alt="Product image" loading="lazy" decoding="async">
-                                    </div>
-                                </div>
-                            </a>
-                            <div class="card-body p-2 p-sm-3 p-md-4">
-                                <a href="#" class="ultproducts-title-link">
-                                    <div class="zis1">Cordless Drill Machine</div>
-                                </a>
-
-                                <div class="zis3">
-                                    aliquip exadipiscing elitsed do eiusmod tempor incididunt utlabore etea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur
-                                </div>
-                                <div class="mt-auto d-flex justify-content-evenly mt-1 mt-md-2">
-
-                                    <a href="category.php" title="Read More" class="main-btn"> Read More </a>
-
-                                    <a href="#sendEnquiry" class="main-btn3" data-bs-toggle="modal" title="Send Enquiry" data-bs-target="#sendEnquiry">Send Enquiry</a>
-                                </div>
-                            </div>
-
-                        </div>
-                    </div>
-
-
-                    <div class="col-6 col-lg-3 col-md-6">
-                        <div class="card h-100 shadow-sm border-0 ultproducts-card">
-                            <a href="category.php">
-                                <div class="ultproducts-img-container">
-                                    <div class="ultproducts-img-ratio">
-                                        <img
-                                            src="https://media.istockphoto.com/id/2207246331/photo/close-up-of-a-flap-disc-abrasive-tool-in-a-workshop-setting.jpg?s=612x612&w=0&k=20&c=nHu7QHivtOq60I5OgFqRkSd6IMpsrkPx3uLj5vkQV9U="
-                                            class="ultproducts-img-top"
-                                            alt="Product image" loading="lazy" decoding="async">
-                                    </div>
-                                </div>
-                            </a>
-                            <div class="card-body p-2 p-sm-3 p-md-4">
-                                <a href="#" class="ultproducts-title-link">
-                                    <div class="zis1">Flap Wheel</div>
-                                </a>
-
-                                <div class="zis3">
-                                    aliquip exadipiscing elitsed do eiusmod tempor incididunt utlabore etea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur
-                                </div>
-                                <div class="mt-auto d-flex justify-content-evenly mt-1 mt-md-2">
-
-                                    <a href="category.php" title="Read More" class="main-btn"> Read More </a>
-
-                                    <a href="#sendEnquiry" class="main-btn3" data-bs-toggle="modal" title="Send Enquiry" data-bs-target="#sendEnquiry">Send Enquiry</a>
-                                </div>
-                            </div>
-
-                        </div>
-                    </div>
-
-
-                    <div class="col-6 col-lg-3 col-md-6">
-                        <div class="card h-100 shadow-sm border-0 ultproducts-card">
-                            <a href="category.php">
-                                <div class="ultproducts-img-container">
-                                    <div class="ultproducts-img-ratio">
-                                        <img
-                                            src="https://media.istockphoto.com/id/2173067881/photo/circular-saw-machine-blades-for-wood.jpg?s=612x612&w=0&k=20&c=7ylBrSN03pV09mQUM7YCj1rHFTIzXSP9QqizL0hxqj4="
-                                            class="ultproducts-img-top"
-                                            alt="Product image" loading="lazy" decoding="async">
-                                    </div>
-                                </div>
-                            </a>
-                            <div class="card-body p-2 p-sm-3 p-md-4">
-                                <a href="#" class="ultproducts-title-link">
-                                    <div class="zis1">Saw Blade</div>
-                                </a>
-
-                                <div class="zis3">
-                                    aliquip exadipiscing elitsed do eiusmod tempor incididunt utlabore etea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur
-                                </div>
-                                <div class="mt-auto d-flex justify-content-evenly mt-1 mt-md-2">
-
-                                    <a href="category.php" title="Read More" class="main-btn"> Read More </a>
-
-                                    <a href="#sendEnquiry" class="main-btn3" data-bs-toggle="modal" title="Send Enquiry" data-bs-target="#sendEnquiry">Send Enquiry</a>
-                                </div>
-                            </div>
-
-                        </div>
-                    </div>
-
-
-
-
-
-
-
-
-
-
+                <div class="product-hover-content">
+                  <img src="https://media.istockphoto.com/id/582256640/photo/oil-refinery-chemical-petrochemical-plant.jpg?s=612x612&w=0&k=20&c=BEdsHVe2vUfzRTb9KcsCS_tCH6_R_nKLKkOQCht8AKo=" alt="Ball Bearings in use" class="product-hover-image">
+                  <div class="leadsuresubheading">
+                    Ball Bearings
+                  </div>
+                  <p class="zis3 p-1">IBH brass gears are manufactured using advanced CNC technology and high-accuracy machining to ensure perfect alignment...</p>
 
                 </div>
+              </div>
+
+              <div class="product-button-wrapper d-flex justify-content-center">
+                <span class="main-btn">
+                  Read More
+                  <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-right" viewBox="0 0 16 16">
+                    <path fill-rule="evenodd" d="M1 8a.5.5 0 0 1 .5-.5h11.793l-3.147-3.146a.5.5 0 0 1 .708-.708l4 4a.5.5 0 0 1 0 .708l-4 4a.5.5 0 0 1-.708-.708L13.293 8.5H1.5A.5.5 0 0 1 1 8"></path>
+                  </svg>
+                </span>
+              </div>
+
+            </a>
+          </div>
+
+          <div class="col-lg-3 col-md-6 col-6">
+            <a href="#" class="service-card">
+
+              <div class="product-card">
+                <div class="product-default-content">
+                  <img src="https://media.istockphoto.com/id/844050182/photo/the-metal-ball-bearing-spare-part.jpg?s=612x612&w=0&k=20&c=CwSquKO9-eDZFOO2EUX7aXEEkPM36iLvpAtErotuft0=" alt="Ball Bearings" class="img-fluid mb-4">
+                  <div class="zis1">Cylindrical Roller Bearing</div>
+                  <p class="zis3 p-1">IBH brass gears are manufactured using advanced CNC technology and high-accuracy machining to ensure perfect alignment...</p>
+                </div>
+
+                <div class="product-hover-content">
+                  <img src="https://media.istockphoto.com/id/1452806046/photo/offshore-oil-drilling-rig-at-dusk-near-huntington-beach.jpg?s=612x612&w=0&k=20&c=W_76PsF5s3tAs2eAihbUZH6yQeFOaVesVDIRCLh-EMA=" alt="Ball Bearings in use" class="product-hover-image">
+                  <div class="leadsuresubheading">
+                    Cylindrical Roller Bearing
+                  </div>
+                  <p class="zis3 p-1">IBH brass gears are manufactured using advanced CNC technology and high-accuracy machining to ensure perfect alignment...</p>
+
+                </div>
+              </div>
+
+              <div class="product-button-wrapper d-flex justify-content-center">
+                <span class="main-btn">
+                  Read More
+                  <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-right" viewBox="0 0 16 16">
+                    <path fill-rule="evenodd" d="M1 8a.5.5 0 0 1 .5-.5h11.793l-3.147-3.146a.5.5 0 0 1 .708-.708l4 4a.5.5 0 0 1 0 .708l-4 4a.5.5 0 0 1-.708-.708L13.293 8.5H1.5A.5.5 0 0 1 1 8"></path>
+                  </svg>
+                </span>
+              </div>
+
+            </a>
+          </div>
+
+          <div class="col-lg-3 col-md-6 col-6">
+            <a href="#" class="service-card">
+
+              <div class="product-card">
+                <div class="product-default-content">
+                  <img src="https://media.istockphoto.com/id/2152190078/photo/measure-caliper-and-roller-bearings-on-cutting-mat.jpg?s=612x612&w=0&k=20&c=7-kWv6LwBahunhVsnspG8XD1xt5rUR11Vh5khQ6cobk=" alt="Ball Bearings" class="img-fluid mb-4">
+                  <div class="zis1">Tapered Roller Bearings</div>
+                  <p class="zis3 p-1">IBH brass gears are manufactured using advanced CNC technology and high-accuracy machining to ensure perfect alignment...</p>
+                </div>
+
+                <div class="product-hover-content">
+                  <img src="https://media.istockphoto.com/id/470309496/photo/oil-refinery-at-evening.jpg?s=612x612&w=0&k=20&c=jeUXMJTMZRsJmojNf1K0i3Tq2dGM0Cv4RRExtGJVKao=" alt="Ball Bearings in use" class="product-hover-image">
+                  <div class="leadsuresubheading">
+                    Tapered Roller Bearings
+                  </div>
+                  <p class="zis3 p-1">IBH brass gears are manufactured using advanced CNC technology and high-accuracy machining to ensure perfect alignment...</p>
+
+                </div>
+              </div>
+
+              <div class="product-button-wrapper d-flex justify-content-center">
+                <span class="main-btn">
+                  Read More
+                  <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-right" viewBox="0 0 16 16">
+                    <path fill-rule="evenodd" d="M1 8a.5.5 0 0 1 .5-.5h11.793l-3.147-3.146a.5.5 0 0 1 .708-.708l4 4a.5.5 0 0 1 0 .708l-4 4a.5.5 0 0 1-.708-.708L13.293 8.5H1.5A.5.5 0 0 1 1 8"></path>
+                  </svg>
+                </span>
+              </div>
+
+            </a>
+          </div>
+
+          <div class="col-lg-3 col-md-6 col-6">
+            <a href="#" class="service-card">
+
+              <div class="product-card">
+                <div class="product-default-content">
+                  <img src="https://media.istockphoto.com/id/1336355408/photo/preliminary-assembly-of-the-mechanism-with-an-installed-shaft-and-bearing.jpg?s=612x612&w=0&k=20&c=jdyAcguEdEQnIwuru8XkRS0BmhqU3asjAeHdtH5vHEs=" alt="Ball Bearings" class="img-fluid mb-4">
+                  <div class="zis1">Plummer Block Housing</div>
+                  <p class="zis3 p-1">IBH brass gears are manufactured using advanced CNC technology and high-accuracy machining to ensure perfect alignment...</p>
+                </div>
+
+                <div class="product-hover-content">
+                  <img src="https://media.istockphoto.com/id/1336355408/photo/preliminary-assembly-of-the-mechanism-with-an-installed-shaft-and-bearing.jpg?s=612x612&w=0&k=20&c=jdyAcguEdEQnIwuru8XkRS0BmhqU3asjAeHdtH5vHEs=" alt="Ball Bearings in use" class="product-hover-image">
+                  <div class="zis1">
+                    Plummer Block Housing
+                  </div>
+                  <p class="zis3 p-1">IBH brass gears are manufactured using advanced CNC technology and high-accuracy machining to ensure perfect alignment...</p>
+
+                </div>
+
+              </div>
+
+              <div class="product-button-wrapper d-flex justify-content-center">
+                <span class="main-btn">
+                  Read More
+                  <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-right" viewBox="0 0 16 16">
+                    <path fill-rule="evenodd" d="M1 8a.5.5 0 0 1 .5-.5h11.793l-3.147-3.146a.5.5 0 0 1 .708-.708l4 4a.5.5 0 0 1 0 .708l-4 4a.5.5 0 0 1-.708-.708L13.293 8.5H1.5A.5.5 0 0 1 1 8"></path>
+                  </svg>
+                </span>
+              </div>
+
+            </a>
+          </div>
+
+          <div class="col-lg-3 col-md-6 col-6">
+            <a href="#" class="service-card">
+
+              <div class="product-card">
+                <div class="product-default-content">
+                  <img src="https://media.istockphoto.com/id/1317729295/photo/close-up-of-lubricant-grease-in-hand-mechanic-for-putting-into-ball-bearing-in-the-industrial.jpg?s=612x612&w=0&k=20&c=JJu_PqcwG5Hd9BCpFWnRe-lwy5hMY4eqm90WCCDhg7g=" alt="Ball Bearings" class="img-fluid mb-4">
+                  <div class="zis1">Spherical Roller Bearings</div>
+                  <p class="zis3 p-1">IBH brass gears are manufactured using advanced CNC technology and high-accuracy machining to ensure perfect alignment...</p>
+                </div>
+
+                <div class="product-hover-content">
+                  <img src="https://media.istockphoto.com/id/522556128/photo/large-factory-detail-at-night.jpg?s=612x612&w=0&k=20&c=IxSLeUmBPqRA9_JfcUS0na9ajnXsu1MgURxHO3X1BU0=" alt="Ball Bearings in use" class="product-hover-image">
+                  <div class="leadsuresubheading">
+                    Spherical Roller Bearings
+                  </div>
+                  <p class="zis3 p-1">IBH brass gears are manufactured using advanced CNC technology and high-accuracy machining to ensure perfect alignment...</p>
+
+                </div>
+              </div>
+
+              <div class="product-button-wrapper d-flex justify-content-center">
+                <span class="main-btn">
+                  Read More
+                  <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-right" viewBox="0 0 16 16">
+                    <path fill-rule="evenodd" d="M1 8a.5.5 0 0 1 .5-.5h11.793l-3.147-3.146a.5.5 0 0 1 .708-.708l4 4a.5.5 0 0 1 0 .708l-4 4a.5.5 0 0 1-.708-.708L13.293 8.5H1.5A.5.5 0 0 1 1 8"></path>
+                  </svg>
+                </span>
+              </div>
+
+            </a>
+          </div>
+
+          <div class="col-lg-3 col-md-6 col-6">
+            <a href="#" class="service-card">
+
+              <div class="product-card">
+                <div class="product-default-content">
+                  <img src="https://media.istockphoto.com/id/1043729344/photo/cutaway-part-of-the-metal-ball-bearing-in-the-light-blue-scene-with-lighting-effect.jpg?s=612x612&w=0&k=20&c=uLaQgscAZNQub7IOmQ9zpQa0dXU2efQ04xtCk4KSyKY=" alt="Ball Bearings" class="img-fluid mb-4">
+                  <div class="zis1">Thrust Ball Bearings</div>
+                  <p class="zis3 p-1">IBH brass gears are manufactured using advanced CNC technology and high-accuracy machining to ensure perfect alignment...</p>
+                </div>
+
+                <div class="product-hover-content">
+                  <img src="https://media.istockphoto.com/id/1043729344/photo/cutaway-part-of-the-metal-ball-bearing-in-the-light-blue-scene-with-lighting-effect.jpg?s=612x612&w=0&k=20&c=uLaQgscAZNQub7IOmQ9zpQa0dXU2efQ04xtCk4KSyKY=" alt="Ball Bearings in use" class="product-hover-image">
+                  <div class="leadsuresubheading">
+                    Thrust Ball Bearings
+                  </div>
+                  <p class="zis3 p-1">IBH brass gears are manufactured using advanced CNC technology and high-accuracy machining to ensure perfect alignment...</p>
+
+                </div>
+              </div>
+
+              <div class="product-button-wrapper d-flex justify-content-center">
+                <span class="main-btn">
+                  Read More
+                  <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-right" viewBox="0 0 16 16">
+                    <path fill-rule="evenodd" d="M1 8a.5.5 0 0 1 .5-.5h11.793l-3.147-3.146a.5.5 0 0 1 .708-.708l4 4a.5.5 0 0 1 0 .708l-4 4a.5.5 0 0 1-.708-.708L13.293 8.5H1.5A.5.5 0 0 1 1 8"></path>
+                  </svg>
+                </span>
+              </div>
+
+            </a>
+          </div>
+
+
+          <div class="col-lg-3 col-md-6 col-6">
+            <a href="#" class="service-card">
+
+              <div class="product-card">
+                <div class="product-default-content">
+                  <img src="https://media.istockphoto.com/id/1818221245/photo/roller-bearing-close-up-shot.jpg?s=612x612&w=0&k=20&c=W1ScVtOH2S-hTJKLmiO-V1wVurOX5Ys9w7EnJ3WI0xc=" alt="Ball Bearings" class="img-fluid mb-4">
+                  <div class="zis1">Spherical Roller Thrust Bearings</div>
+                  <p class="zis3 p-1">IBH brass gears are manufactured using advanced CNC technology and high-accuracy machining to ensure perfect alignment...</p>
+                </div>
+
+                <div class="product-hover-content">
+                  <img src="https://media.istockphoto.com/id/1818221245/photo/roller-bearing-close-up-shot.jpg?s=612x612&w=0&k=20&c=W1ScVtOH2S-hTJKLmiO-V1wVurOX5Ys9w7EnJ3WI0xc=" alt="Ball Bearings in use" class="product-hover-image">
+                  <div class="leadsuresubheading">
+                    Spherical Roller Thrust Bearings
+                  </div>
+                  <p class="zis3 p-1">IBH brass gears are manufactured using advanced CNC technology and high-accuracy machining to ensure perfect alignment...</p>
+
+                </div>
+              </div>
+
+              <div class="product-button-wrapper d-flex justify-content-center">
+                <span class="main-btn">
+                  Read More
+                  <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-right" viewBox="0 0 16 16">
+                    <path fill-rule="evenodd" d="M1 8a.5.5 0 0 1 .5-.5h11.793l-3.147-3.146a.5.5 0 0 1 .708-.708l4 4a.5.5 0 0 1 0 .708l-4 4a.5.5 0 0 1-.708-.708L13.293 8.5H1.5A.5.5 0 0 1 1 8"></path>
+                  </svg>
+                </span>
+              </div>
+
+            </a>
+          </div>
+
+          <div class="col-lg-3 col-md-6 col-6">
+            <a href="#" class="service-card">
+
+              <div class="product-card">
+                <div class="product-default-content">
+                  <img src="https://media.istockphoto.com/id/491519555/photo/gear-transmission-machine-and-steel-cog-wheels-on-isolated-background.jpg?s=612x612&w=0&k=20&c=EiKmZurfg5dYZ4dtF4MojOS4kXtRHUL4diXpiw3tqXg=" alt="Ball Bearings" class="img-fluid mb-4">
+                  <div class="zis1">Precision Machine Tool Bearings</div>
+                  <p class="zis3 p-1">IBH brass gears are manufactured using advanced CNC technology and high-accuracy machining to ensure perfect alignment...</p>
+                </div>
+
+                <div class="product-hover-content">
+                  <img src="https://media.istockphoto.com/id/491519555/photo/gear-transmission-machine-and-steel-cog-wheels-on-isolated-background.jpg?s=612x612&w=0&k=20&c=EiKmZurfg5dYZ4dtF4MojOS4kXtRHUL4diXpiw3tqXg=" alt="Ball Bearings in use" class="product-hover-image">
+                  <div class="leadsuresubheading">
+                    Precision Machine Tool Bearings
+                  </div>
+                  <p class="zis3 p-1">IBH brass gears are manufactured using advanced CNC technology and high-accuracy machining to ensure perfect alignment...</p>
+
+                </div>
+              </div>
+
+              <div class="product-button-wrapper d-flex justify-content-center">
+                <span class="main-btn">
+                  Read More
+                  <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-right" viewBox="0 0 16 16">
+                    <path fill-rule="evenodd" d="M1 8a.5.5 0 0 1 .5-.5h11.793l-3.147-3.146a.5.5 0 0 1 .708-.708l4 4a.5.5 0 0 1 0 .708l-4 4a.5.5 0 0 1-.708-.708L13.293 8.5H1.5A.5.5 0 0 1 1 8"></path>
+                  </svg>
+                </span>
+              </div>
+
+            </a>
+          </div>
+
+
+
+        </div>
 
             </div>
 
@@ -304,49 +439,58 @@
 
 
 
-        <!-- ***********************seo section code************************* -->
-        <section class="section-highlight leadsure">
-            <div class="container">
-                <div class="row g-2 g-md-3 align-items-start  wow fadeInLeft animated" data-wow-delay=".1s"> <!-- Left Column (Content first now) -->
+      
 
-                    <div class="col-lg-12 col-md-7 col-12">
-                        <div class="feature-copy h-100"> <input type="checkbox" id="read-more-toggle" class="read-more-toggle"> <!-- Content wrapper -->
-                            <div class="seo-content61 leadseo">
-                                <h2>Unleash Power and Precision with the Ultra Touch Angle Grinder</h2>
-                                <p>The Ultra Touch Angle Grinder is a high-performance power tool built for professionals who value precision, durability, and efficiency. Designed in Mumbai, this tool ensures smooth operation whether you are cutting, grinding, polishing, or finishing metal and concrete surfaces. Its compact yet powerful build makes it a must-have for workshops, fabrication units, and home users alike.</p>
 
-                                <h2>Engineered for Performance and Long-Lasting Quality</h2>
-                                <p>Each Ultra Touch Angle Grinder is crafted using advanced technology and high-quality components to deliver consistent results even in demanding work conditions. Its powerful motor offers high torque and stable speed, making it perfect for industrial and heavy-duty applications.</p>
-                                <p>The ergonomic soft-grip handle provides excellent comfort and control during long hours of use, while its heat-resistant design ensures safety and durability. From construction sites to repair shops, the Ultra Touch Angle Grinder performs flawlessly across various tasks.</p>
-                                <p>Whether you need to smooth weld joints, cut through steel pipes, or polish metal surfaces, this grinder combines strength with precision for unmatched results every time.</p>
+     <!-- *******************************SEO CONTENT SECTION AREA****************************** -->
+    <section class="section-highlight leadsure">
+      <div class="container">
+        <div class="row g-2 g-md-3 justify-content-center wow fadeInLeft animated" data-wow-delay=".1s">
 
-                                <h3>Why Choose Ultra Touch Angle Grinder</h3>
-                                <p>The Ultra Touch Angle Grinder is trusted by technicians, builders, and metalworkers across Mumbai for its reliability, performance, and easy maintenance. It’s designed to handle heavy workloads with minimal vibration and maximum output, ensuring efficiency and comfort.</p>
 
-                                <p>Each unit is quality-tested to guarantee durability, safety, and smooth performance even in tough conditions. Our commitment to engineering excellence ensures that every user experiences superior power and precision.</p>
+          <div class="col-lg-12 col-md-7 col-12">
+            <div class="feature-copy h-100"> <input type="checkbox" id="read-more-toggle" class="read-more-toggle">
+              <div class="seo-content61 leadseo">
+                    <h2>Reliable Oxygen Cylinders and Oxygen Plant Solutions by IBH</h2>
+                    <p><strong>IBH</strong> is a trusted name in the field of <strong>medical oxygen systems</strong>, offering high-quality <strong>oxygen cylinders, oxygen plants, and gas distribution systems</strong> across Mumbai and India. Our solutions are designed to support hospitals, clinics, and healthcare facilities with a continuous and safe oxygen supply to ensure effective patient care.</p>
 
-                                <p>With a focus on technology, durability, and user comfort, the Ultra Touch Angle Grinder stands out as a dependable power tool for every professional and DIY enthusiast in Mumbai.</p>
-                                <ul>
-                                    <li>Powerful motor for consistent cutting and grinding</li>
-                                    <li>Ergonomic and lightweight design for better handling</li>
-                                    <li>Durable body structure for long-term use</li>
-                                    <li>Ideal for metal fabrication, polishing, and surface finishing</li>
-                                </ul>
+                    <h2>Advanced Oxygen Plant Technology</h2>
+                    <p>At <strong>IBH</strong>, we manufacture and supply <strong>PSA (Pressure Swing Adsorption) Oxygen Plants</strong> built with advanced automation and reliable engineering. These systems are capable of generating medical-grade oxygen on-site, reducing dependency on external gas suppliers. Our plants are designed for efficient energy use, low maintenance, and long operational life — making them ideal for hospitals, nursing homes, and industrial applications.</p>
 
-                                <h3>Conclusion</h3>
-                                <p>Experience the perfect balance of power, safety, and control with the Ultra Touch Angle Grinder — your trusted power tool partner for industrial and personal projects in Mumbai.</p>
+                    <p>Each <strong>IBH Oxygen Plant</strong> is equipped with high-quality filters, compressors, and control panels to ensure consistent oxygen purity levels of up to 93–95%. The systems are easy to install, operate, and maintain, providing uninterrupted oxygen generation for healthcare and emergency requirements.</p>
 
-                            </div><label for="read-more-toggle" class="read-more-btn"></label>
-                        </div>
-                    </div>
+                    <h2>High-Quality Oxygen Cylinders and Storage Systems</h2>
+                    <p><strong>IBH</strong> supplies a wide range of <strong>oxygen cylinders</strong> in various capacities to meet hospital, laboratory, and home care needs. Manufactured using high-grade materials, our cylinders are tested under strict safety standards and certified for leak-proof performance. We also offer complete solutions for oxygen manifold systems, pipelines, and pressure regulators.</p>
 
-                </div>
+                    <ul>
+                    <li>Medical and industrial oxygen cylinders available in multiple sizes</li>
+                    <li>High-pressure cylinders with safety valves and testing certifications</li>
+                    <li>Custom-designed manifold and storage systems</li>
+                    <li>Easy refilling and maintenance services available across Mumbai</li>
+                    </ul>
+
+                    <h3>Why Choose IBH for Oxygen Systems</h3>
+                    <ul>
+                    <li>Comprehensive oxygen solutions — from plants to cylinders and pipelines</li>
+                    <li>Built with advanced automation and global safety standards</li>
+                    <li>Energy-efficient, low-maintenance PSA oxygen generators</li>
+                    <li>24x7 service support and quick installation in Mumbai and nearby areas</li>
+                    <li>Trusted by hospitals, clinics, and medical distributors across India</li>
+                    </ul>
+
+                    <h3>Empowering Healthcare with Reliable Oxygen Supply</h3>
+                    <p><strong>IBH</strong> is committed to ensuring every healthcare facility has access to safe and uninterrupted oxygen. Our products are trusted for their efficiency, durability, and compliance with international medical equipment standards. Whether you need a new <strong>oxygen plant installation</strong> or a steady supply of <strong>oxygen cylinders</strong>, we provide end-to-end solutions tailored to your needs.</p>
+
+                    <h3>Conclusion</h3>
+                    <p>Choose <strong>IBH</strong> for top-quality <strong>oxygen cylinders and oxygen plants in Mumbai</strong>. With our advanced technology, durable products, and reliable support, we help healthcare institutions save lives through consistent and safe oxygen supply.</p>
+
+              </div> <label for="read-more-toggle" class="read-more-btn"></label>
             </div>
-        </section>
+          </div>
 
-
-
-
+        </div>
+      </div>
+    </section>
 
     </main>
 

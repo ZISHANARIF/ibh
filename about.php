@@ -19,9 +19,9 @@
     <!-- ===== Breadcrumb Hero (bc01) ===== -->
     <div class="img-breadcum">
       <div class="container">
-        <img src="https://media.istockphoto.com/id/1224113576/photo/tool.jpg?s=612x612&w=0&k=20&c=_Y92wARA3Kp0_Q2KSSP6eHTfT26TYOtEAYje_OAtvYE=" loading="lazy" decoding="async" title="About Us" alt="About Us" />
-        <div class="sub-tt">Ultra Touch</div>
-        <div class="tt">Ultra Touch</div>
+        <img src="https://media.istockphoto.com/id/94916159/photo/inside-the-clock.jpg?s=612x612&w=0&k=20&c=1O5Y5p5ufn-ut5xTGRIDyNSPpVIpSRWXNzzRL6xVO0I="title="About Us" alt="About Us" />
+        <div class="sub-tt">IBH Brass Gear</div>
+        <div class="tt">IBH Brass Gear</div>
       </div>
     </div>
     <div class="breadcum-sec">
@@ -34,334 +34,412 @@
     </div>
 
 
-    <!-- ===== Text + Image Section (Aspect-ratio image) ===== -->
+    <section class="timeline-section leadsure">
+        
+        <div class="container">
+            <div class="row wow fadeInUp animated" data-wow-delay=".1s">
+                <div class="col-12 text-center">
+
+                    <div class="section-title mb-3">
+                        Dedicated to delivering excellence
+                    </div>
+
+                    <p class="leadsuresubheading mb-5">
+                        Everyone has a story. Here is ours.
+                    </p>
+
+                    <img src="https://ibhindia.in/wp-content/uploads/2024/12/Green-Modern-Timeline-Infographic-Flowchart-Graph-1918-x-595-px-1-1-2048x635.png" 
+                         alt="Company timeline graphic from 1973 to 2024" 
+                         class="img-fluid d-block mx-auto">
+
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+        <section class="vision-section leadsure">
+        <div class="container">
+
+            <div class="row vision-row d-flex align-items-center ">
+                
+                <div class="col-md-6 wow fadeInLeft animated" data-wow-delay=".1s">
+                    <div class="vision-content pe-md-2">
+                        <div class="faq-title">Mission</div>
+                        <p class="leadsuresubheading">
+                            To deliver high quality, reliable & innovative bearing
+                            solutions that meet the diverse needs of our
+                            customers, while fostering long term partnerships,
+                            advancing technology and contributing to sustainable
+                            industrial progress.
+                        </p>
+                    </div>
+                </div>
+
+                <div class="col-md-6 ps-md-4 wow fadeInRight animated" data-wow-delay=".1s">
+                    <img src="https://media.istockphoto.com/id/1333772664/photo/digital-eye-wave-lines-stock-background.jpg?s=612x612&w=0&k=20&c=NZWbdDlbG51UZZwNGSmg0C3uGRTuorIjGLDZ1VYGX-Q=" alt="A professional business meeting in a conference room." class="vision-image">
+                </div>
+            </div>
+
+            <div class="row vision-row d-flex align-items-center">
+                
+                <div class="col-md-6 order-md-1 order-2 pe-md-4 wow fadeInLeft animated" data-wow-delay=".1s">
+                    <img src="https://media.istockphoto.com/id/1021061712/vector/silhouette-of-a-team-leader-look-up-to-top-of-mountain.jpg?s=612x612&w=0&k=20&c=atCI9MgxYDVUVaQWa5CepJ92gpCSC5wgHqR7zvju-iI=" alt="A digital concept of 'Our Vision' with a hand holding a globe." class="vision-image">
+                </div>
+
+                <div class="col-md-6 order-md-2 order-1 wow fadeInRight animated" data-wow-delay=".1s">
+                    <div class="vision-content ps-md-4">
+                        <div class="faq-title">Our Vision</div>
+                        <p class="leadsuresubheading">
+                            To be the global precision bearing solutions provider,
+                            empowering industries with innovative, sustainable
+                            and high performance products that enhance
+                            reliability, efficiency and motion control across
+                            diverse applications.
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row vision-row d-flex align-items-center">
+                
+                <div class="col-md-6">
+                    <div class="vision-content pe-md-2 wow fadeInLeft animated" data-wow-delay=".1s">
+                        <div class="faq-title">Core Values</div>
+                       <p class="leadsuresubheading">
+                            To be the global precision bearing solutions provider,
+                            empowering industries with innovative, sustainable
+                            and high performance products that enhance
+                            reliability, efficiency and motion control across
+                            diverse applications.
+                        </p>
+                    </div>
+                </div>
+
+                <div class="col-md-6 ps-md-4 wow fadeInRight animated" data-wow-delay=".1s">
+                    <img src="https://media.istockphoto.com/id/1317150019/photo/man-meets-digital-avatar-of-himself-made-with-a-hologram.jpg?s=612x612&w=0&k=20&c=TdWZ8kMi3cymg9RI66Vnmg9YEjGyBmC6rhBRRoT44Ck=" alt="A diverse team collaborating around a table." class="vision-image">
+                </div>
+            </div>
+
+        </div>
+    </section>
+
+    <!--************************** bullets point section ******************************* -->
+
+    <section class="features-section leadsure">
+      
+        <div class="container">
+            <div class="row wow fadeInUp animated" data-wow-delay=".1s">
+
+                <div class="col-lg-3 col-md-6 col-6 mb-2 mb-md-4">
+                    <div class="feature-item text-center h-100">
+                        <div class="feature-icon mb-2 mb-md-4">
+                           <img src="https://www.svgrepo.com/show/247238/heart-love-and-romance.svg">
+                        </div>
+                        
+                        <div class="leadsuresubheading fs-4 text-start">Passionate</div>
+                        
+                        <p class="leadsurepara text-start">
+                            Every detail of work performed is the
+                            work of true passion, with high quality and
+                            commitment.
+                        </p>
+                    </div>
+                </div>
+
+                <div class="col-lg-3 col-md-6 col-6 mb-2 mb-md-4">
+                    <div class="feature-item text-center h-100">
+                        <div class="feature-icon mb-2 mb-md-4">
+                            <img src="https://www.svgrepo.com/show/530477/index.svg">
+                            </div>
+                        
+                        <div class="leadsuresubheading fs-4 text-start">Respectful</div>
+                        
+                        <p class="leadsurepara text-start">
+                            We maintain and strengthen
+                            relationships through appreciation and
+                            respect for our teammates.
+                        </p>
+                    </div>
+                </div>
+
+                <div class="col-lg-3 col-md-6 col-6 mb-2 mb-md-4">
+                    <div class="feature-item text-center h-100">
+                        <div class="feature-icon mb-2 mb-md-4">
+                           <img src="https://www.svgrepo.com/show/530585/user.svg">
+                        </div>
+                        
+                        <div class="leadsuresubheading fs-4 text-start">Ownership</div>
+                        
+                        <p class="leadsurepara text-start">
+                            Success is achieved collaboratively, as
+                            everyone contributes to a particular goal.
+                        </p>
+                    </div>
+                </div>
+
+                <div class="col-lg-3 col-md-6 col-6 mb-2 mb-md-4">
+                    <div class="feature-item text-center h-100">
+                        <div class="feature-icon mb-2 mb-md-4">
+                            <img src="https://www.svgrepo.com/show/443517/brand-unity3d.svg">
+                            </div>
+                        
+                        <div class="leadsuresubheading fs-4 text-start">Unified</div>
+                        
+                        <p class="leadsurepara text-start">
+                            Success is achieved collaboratively, as
+                            everyone contributes to a particular goal.
+                        </p>
+                    </div>
+                </div>
+
+            </div> </div>
+          
+    </section>
+
+
+
+             <!-- *******************************SEO CONTENT SECTION AREA****************************** -->
+    <section class="section-highlight leadsure">
+      <div class="container">
+        <div class="row g-2 g-md-3 justify-content-center wow fadeInLeft animated" data-wow-delay=".1s">
+
+
+          <div class="col-lg-12 col-md-7 col-12">
+            <div class="feature-copy h-100"> <input type="checkbox" id="read-more-toggle" class="read-more-toggle">
+              <div class="seo-content61 leadseo">
+                <h2>Reliable Oxygen Cylinders and Oxygen Plant Solutions by IBH</h2>
+                <p><strong>IBH</strong> is a trusted name in the field of <strong>medical oxygen systems</strong>, offering high-quality <strong>oxygen cylinders, oxygen plants, and gas distribution systems</strong> across Mumbai and India. Our solutions are designed to support hospitals, clinics, and healthcare facilities with a continuous and safe oxygen supply to ensure effective patient care.</p>
+
+                <h2>Advanced Oxygen Plant Technology</h2>
+                <p>At <strong>IBH</strong>, we manufacture and supply <strong>PSA (Pressure Swing Adsorption) Oxygen Plants</strong> built with advanced automation and reliable engineering. These systems are capable of generating medical-grade oxygen on-site, reducing dependency on external gas suppliers. Our plants are designed for efficient energy use, low maintenance, and long operational life — making them ideal for hospitals, nursing homes, and industrial applications.</p>
+
+                <p>Each <strong>IBH Oxygen Plant</strong> is equipped with high-quality filters, compressors, and control panels to ensure consistent oxygen purity levels of up to 93–95%. The systems are easy to install, operate, and maintain, providing uninterrupted oxygen generation for healthcare and emergency requirements.</p>
+
+                <h2>High-Quality Oxygen Cylinders and Storage Systems</h2>
+                <p><strong>IBH</strong> supplies a wide range of <strong>oxygen cylinders</strong> in various capacities to meet hospital, laboratory, and home care needs. Manufactured using high-grade materials, our cylinders are tested under strict safety standards and certified for leak-proof performance. We also offer complete solutions for oxygen manifold systems, pipelines, and pressure regulators.</p>
+
+                <ul>
+                  <li>Medical and industrial oxygen cylinders available in multiple sizes</li>
+                  <li>High-pressure cylinders with safety valves and testing certifications</li>
+                  <li>Custom-designed manifold and storage systems</li>
+                  <li>Easy refilling and maintenance services available across Mumbai</li>
+                </ul>
+
+                <h3>Why Choose IBH for Oxygen Systems</h3>
+                <ul>
+                  <li>Comprehensive oxygen solutions — from plants to cylinders and pipelines</li>
+                  <li>Built with advanced automation and global safety standards</li>
+                  <li>Energy-efficient, low-maintenance PSA oxygen generators</li>
+                  <li>24x7 service support and quick installation in Mumbai and nearby areas</li>
+                  <li>Trusted by hospitals, clinics, and medical distributors across India</li>
+                </ul>
+
+                <h3>Empowering Healthcare with Reliable Oxygen Supply</h3>
+                <p><strong>IBH</strong> is committed to ensuring every healthcare facility has access to safe and uninterrupted oxygen. Our products are trusted for their efficiency, durability, and compliance with international medical equipment standards. Whether you need a new <strong>oxygen plant installation</strong> or a steady supply of <strong>oxygen cylinders</strong>, we provide end-to-end solutions tailored to your needs.</p>
+
+                <h3>Conclusion</h3>
+                <p>Choose <strong>IBH</strong> for top-quality <strong>oxygen cylinders and oxygen plants in Mumbai</strong>. With our advanced technology, durable products, and reliable support, we help healthcare institutions save lives through consistent and safe oxygen supply.</p>
+
+              </div> <label for="read-more-toggle" class="read-more-btn"></label>
+            </div>
+          </div>
+
+        </div>
+      </div>
+    </section>
+
+
+
+    <!-- ******************************our partner section code***************************** -->
+
+    <div class="partners-section leadsure">
+
+      <div class="container">
+
+
+
+        <div class="row wow fadeInUp animated" data-wow-delay=".1s">
+
+          <div class="col-12 text-center">
+
+            <div class="section-title">Our Trusted <span class="colordhead"> Partners</span></div>
+
+          </div>
+
+        </div>
+
+
+        <div class="swiper mySwiper wow fadeInUp animated" data-wow-delay=".1s">
+
+          <div class="swiper-wrapper align-items-center">
+
+
+            <div class="swiper-slide">
+
+              <img src="https://www.leadsure.co.in/aft/uploaded-files/client-image/AAI.webp" alt="AAI" title="AAI">
+
+            </div>
+
+
+            <div class="swiper-slide">
+
+              <img src="https://www.leadsure.co.in/aft/uploaded-files/client-image/BHEL.webp" alt="BHEL" title="BHEL">
+
+            </div>
+
+
+            <div class="swiper-slide">
+
+              <img src="https://www.leadsure.co.in/aft/uploaded-files/client-image/CPWD.webp" alt="CPWD" title="CPWD">
+
+            </div>
+
+
+            <div class="swiper-slide">
+
+              <img src="https://www.leadsure.co.in/aft/uploaded-files/client-image/DFCCIL.webp" alt="DFCCIL" title="DFCCIL">
+
+            </div>
+
+
+            <div class="swiper-slide">
+
+              <img src="https://www.leadsure.co.in/aft/uploaded-files/client-image/EIL.webp" alt="EIL" title="EIL">
+
+            </div>
+
+
+            <div class="swiper-slide">
+
+              <img src="https://www.leadsure.co.in/aft/uploaded-files/client-image/EPIL.webp" alt="EPIL" title="EPIL">
+
+            </div>
+
+
+            <div class="swiper-slide">
+
+              <img src="https://www.leadsure.co.in/aft/uploaded-files/client-image/HAL.webp" alt="HAL" title="HAL">
+
+            </div>
+
+
+            <div class="swiper-slide">
+
+              <img src="https://www.leadsure.co.in/aft/uploaded-files/client-image/HSCC.webp" alt="HSCC" title="HSCC">
+
+            </div>
+
+
+            <div class="swiper-slide">
+
+              <img src="https://www.leadsure.co.in/aft/uploaded-files/client-image/IOCL.webp" alt="IOCL" title="IOCL">
+
+            </div>
+
+
+            <div class="swiper-slide">
+
+              <img src="https://www.leadsure.co.in/aft/uploaded-files/client-image/IRCON.webp" alt="IRCON" title="IRCON">
+
+            </div>
+
+
+            <div class="swiper-slide">
+
+              <img src="https://www.leadsure.co.in/aft/uploaded-files/client-image/NBCC.webp" alt="NBCC" title="NBCC">
+
+            </div>
+
+
+            <div class="swiper-slide">
+
+              <img src="https://www.leadsure.co.in/aft/uploaded-files/client-image/NHAI.webp" alt="NHAI" title="NHAI">
+
+            </div>
+
+
+            <div class="swiper-slide">
+
+              <img src="https://www.leadsure.co.in/aft/uploaded-files/client-image/NTPC.webp" alt="NTPC" title="NTPC">
+
+            </div>
+
+
+            <div class="swiper-slide">
+
+              <img src="https://www.leadsure.co.in/aft/uploaded-files/client-image/ONGC.webp" alt="ONGC" title="ONGC">
+
+            </div>
+
+
+            <div class="swiper-slide">
+
+              <img src="https://www.leadsure.co.in/aft/uploaded-files/client-image/RVNL.webp" alt="RVNL" title="RVNL">
+
+            </div>
+
+
+            <div class="swiper-slide">
+
+              <img src="https://www.leadsure.co.in/aft/uploaded-files/client-image/WAPCOS.webp" alt="WAPCOS" title="WAPCOS">
+
+            </div>
+
+
+
+          </div>
+
+
+
+
+
+        </div>
+
+
+      </div>
+
+    </div>
+
+<!-- **************************about us section code**************************** -->
 
     <section class="leadsure aboutsection">
       <div class="container">
-        <div class="row align-items-center g-2 g-md-4 wow fadeInUp animated" data-wow-delay=".1s">
+        <div class="row align-items-center g-2 g-md-4 wow fadeInRight animated" data-wow-delay=".1s">
 
 
 
           <div class="col-lg-6">
-            <div class="ps-lg-4 leadseo">
-              <div class="eyebrow-section">[ About Us ]</div>
-              <div class="leadsureheading">Ultra Touch Power Tool – Trusted Manufacturer in Mumbai</div>
-              <p>
-                Ultra Touch Power Tool is one of the leading manufacturers and suppliers of premium hardware tools in Mumbai. We specialize in producing high-quality screwdrivers, nuts, bolts, wrenches, and other precision-engineered tools </p>
-              <p>
-                designed for both industrial and household use. Known for durability, accuracy, and ergonomic design, our tools are crafted to meet the needs of professionals, technicians, and DIY users across Mumbai and nearby regions.
+            <div class="leadseo">
+              <div class="eyebrow-section">Better together</div>
+              
+              <div class="leadsureheading">Better together with IBH</div>
+              <p >
+                IBH has been adopting the “Threefold Principle” since its inception. It means that a Client, a Partner and the Team must all work together. When great minds are brought together, great results will surely ensue. The challenges are there but they are all surmountable. All the cut, thrust and parry of the business leads to solutions. Each success is a success which is set to represent the oneness. It is said that ‘one for all, all for one’ – which makes a good difference.
               </p>
+              <a href="#" class=" main-btn mt-2" role="button">Get In Touch <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-right" viewBox="0 0 16 16">
+                  <path fill-rule="evenodd" d="M1 8a.5.5 0 0 1 .5-.5h11.793l-3.147-3.146a.5.5 0 0 1 .708-.708l4 4a.5.5 0 0 1 0 .708l-4 4a.5.5 0 0 1-.708-.708L13.293 8.5H1.5A.5.5 0 0 1 1 8"></path>
+                </svg></a>
             </div>
           </div>
 
           <div class="col-lg-6">
-            <div class="position-relative hero-about-image">
-              <img src="https://media.istockphoto.com/id/1157321518/photo/work-tools-on-the-garage-wall-and-work-table.jpg?s=612x612&w=0&k=20&c=1RhKu9za7f77eQ1f8CQEy2zIc8wxOjfoltOuX8kam40=" class="img-fluid" loading="lazy" decoding="async" alt="A modern and clean medical clinic interior with a dental chair and equipment.">
-
-
+            <div class=" hero-about-image">
+              <img src="https://media.istockphoto.com/id/666252332/photo/stack-of-wooden-dominoes-with-signs.jpg?s=612x612&w=0&k=20&c=xTlLTp6Kc2fih3VEgimcjtrQqCba3E2txiuJYt-ev14=" loading="lazy" decoding="async" alt="A modern and clean medical clinic interior with a dental chair and equipment.">
             </div>
           </div>
 
         </div>
       </div>
     </section>
-
-    <section class="philosophy-section leadsure">
-      <div class="container">
-
-        <div class="row">
-          <div class="col-12 text-center">
-            <div class="eyebrow-section text-light">[ COMPANY STRATEGY ]</div>
-            <div class="section-title text-light">Our Philosophy</div>
-          </div>
-        </div>
-
-        <div class="row justify-content-center">
-
-                <div class="col-lg-4 col-md-6 col-12 mb-4">
-                    <div class="flip-card">
-                        <div class="flip-card-inner">
-                            
-                            <div class="flip-card-front d-flex flex-column justify-content-center align-items-center p-4">
-                                <img src="https://templates.thememodern.com/theratio/images/support1.jpg" class="card-front-img" alt="Missions Background">
-                                <div class="card-front-content text-center">
-                                    <div class="card-front-icon-wrapper">
-                                        <svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" fill="currentColor" class="bi bi-bullseye" viewBox="0 0 16 16">
-                                            <path d="M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14m0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16" />
-                                            <path d="M8 13A5 5 0 1 1 8 3a5 5 0 0 1 0 10m0 1A6 6 0 1 0 8 2a6 6 0 0 0 0 12" />
-                                            <path d="M8 11a3 3 0 1 1 0-6 3 3 0 0 1 0 6m0 1a4 4 0 1 0 0-8 4 4 0 0 0 0 8" />
-                                            <path d="M9.5 8a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0" />
-                                        </svg>
-                                    </div>
-                                    <div class="leadsureheading text-light">Our Missions</div>
-                                </div>
-                            </div>
-                            
-                            <div class="flip-card-back d-flex flex-column justify-content-center align-items-center p-4">
-                                <p class="leadsurepara text-light text-center">
-                                    To deliver innovative and sustainable design solutions that exceed client expectations and positively impact communities.
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-lg-4 col-md-6 col-12 mb-4">
-                    <div class="flip-card">
-                        <div class="flip-card-inner">
-                            
-                            <div class="flip-card-front d-flex flex-column justify-content-center align-items-center p-4">
-                                <img src="https://templates.thememodern.com/theratio/images/support2.jpg" class="card-front-img" alt="Vision Background">
-                                <div class="card-front-content text-center">
-                                    <div class="card-front-icon-wrapper">
-                                        <svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" fill="currentColor" class="bi bi-chat-square-heart" viewBox="0 0 16 16">
-                                            <path d="M14 1a1 1 0 0 1 1 1v8a1 1 0 0 1-1 1h-2.5a2 2 0 0 0-1.6.8L8 14.333 6.1 11.8a2 2 0 0 0-1.6-.8H2a1 1 0 0 1-1-1V2a1 1 0 0 1 1-1zM2 0a2 2 0 0 0-2 2v8a2 2 0 0 0 2 2h2.5a1 1 0 0 1 .8.4l1.9 2.533a1 1 0 0 0 1.6 0l1.9-2.533a1 1 0 0 1 .8-.4H14a2 2 0 0 0 2-2V2a2 2 0 0 0-2-2z" />
-                                            <path d="M8 3.993c1.664-1.711 5.825 1.283 0 5.132-5.825-3.85-1.664-6.843 0-5.132" />
-                                        </svg>
-                                    </div>
-                                    <div class="leadsureheading text-light">Our Vision</div>
-                                </div>
-                            </div>
-                            
-                            <div class="flip-card-back d-flex flex-column justify-content-center align-items-center p-4">
-                                <p class="leadsurepara text-light text-center">
-                                    To be a globally recognized leader in architectural design, known for our creativity, integrity, and commitment to excellence.
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-lg-4 col-md-6 col-12 mb-4">
-                    <div class="flip-card">
-                        <div class="flip-card-inner">
-                            
-                            <div class="flip-card-front d-flex flex-column justify-content-center align-items-center p-4">
-                                <img src="https://templates.thememodern.com/theratio/images/support3.jpg" class="card-front-img" alt="Values Background">
-                                <div class="card-front-content text-center">
-                                    <div class="card-front-icon-wrapper">
-                                        <svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" fill="currentColor" class="bi bi-gem" viewBox="0 0 16 16">
-                                            <path d="M3.1.7a.5.5 0 0 1 .4-.2h9a.5.5 0 0 1 .4.2l2.976 3.974c.149.185.156.45.01.644L8.4 15.3a.5.5 0 0 1-.8 0L.1 5.3a.5.5 0 0 1 0-.6zm11.386 3.785-1.806-2.41-.776 2.413zm-3.633.004.961-2.989H4.186l.963 2.995zM5.47 5.495 8 13.366l2.532-7.876zm-1.371-.999-.78-2.422-1.818 2.425zM1.499 5.5l5.113 6.817-2.192-6.82zm7.889 6.817 5.123-6.83-2.928.002z" />
-                                        </svg>
-                                    </div>
-                                    <div class="leadsureheading text-light">Our Values</div>
-                                </div>
-                            </div>
-                            
-                            <div class="flip-card-back d-flex flex-column justify-content-center align-items-center p-4">
-                                <p class="leadsurepara text-light text-center">
-                                    Creativity, Collaboration, Integrity, and Sustainability are the core principles that guide every project we undertake.
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-            </div>  
-      </div>
-    </section>
-
-
-     <!-- browse by category section code -->
-    <section class="category-section leadsure">
-      <div class="container wow fadeInLeft animated" data-wow-delay=".1s">
-
-        <div class="row">
-          <div class="col-12 text-center">
-            <div class="section-title">Ultra Touch Power Tool – Power Meets Precision</div>
-          </div>
-        </div>
-
-        <div class="row row-cols-2 row-cols-md-3 row-cols-lg-6 g-4">
-
-          <div class="col">
-            <a href="#" class="category-item text-center">
-              <div class="category-icon-wrapper">
-                <img src="./designer/images/1angle.webp">
-              </div>
-              <div class="leadsuresubheading">Angle Grinder</div>
-            </a>
-          </div>
-
-          <div class="col">
-            <a href="#" class="category-item text-center">
-              <div class="category-icon-wrapper">
-                <img src="./designer/images/2marble.webp">
-
-              </div>
-              <div class="leadsuresubheading">Marble Cutter</div>
-            </a>
-          </div>
-
-         
-
-          <div class="col">
-            <a href="#" class="category-item text-center">
-              <div class="category-icon-wrapper">
-                <img src="./designer/images/4CuttingWheel.webp">
-
-              </div>
-              <div class="leadsuresubheading">Cutting Wheel</div>
-            </a>
-          </div>
-
-          <div class="col">
-            <a href="#" class="category-item text-center">
-              <div class="category-icon-wrapper">
-                <img src="./designer/images/5HammerDrill.webp">
-
-              </div>
-              <div class="leadsuresubheading">Hammer Drill</div>
-            </a>
-          </div>
-
-          <div class="col">
-            <a href="#" class="category-item text-center">
-              <div class="category-icon-wrapper">
-                <img src="./designer/images/6CordlessDrillMachine.webp">
-
-              </div>
-              <div class="leadsuresubheading">Cordless Drill</div>
-            </a>
-          </div>
-
-          <div class="col">
-            <a href="#" class="category-item text-center">
-              <div class="category-icon-wrapper">
-                <img src="./designer/images/7SawBlade.webp">
-
-              </div>
-              <div class="leadsuresubheading">Saw Blade</div>
-            </a>
-          </div>
-
-
-        </div>
-      </div>
-    </section>
+   
 
 
 
-       <!-- highlights section code -->
-
-    <section class="highlights-section leadsure">
-      <div class="container">
-        <div class="row">
-
-          <div class="col-lg-6 wow fadeInLeft animated" data-wow-delay=".1s">
-            <div class="faq-title">OUR <span class="colordhead">HIGHLIGHTS</span> </div>
-            <div class="separator"></div>
-
-            <div class="row row-cols-2 row-cols-lg-3 g-3 mt-4">
-
-              <div class="col">
-                <div class="highlight-box">
-                  <img src="https://www.svgrepo.com/show/384034/dart-mission-goal-success.svg" class=" box-icon"></img>
-                  <div class="leadsuresubheading mt-3">Mission</div>
-                </div>
-              </div>
-
-              <div class="col">
-                <div class="highlight-box">
-                  <img src="https://www.svgrepo.com/show/482815/eye-6.svg" class=" box-icon"></img>
-
-                  <div class="leadsuresubheading mt-3">Vision</div>
-                </div>
-              </div>
-
-              <div class="col">
-                <div class="highlight-box">
-                  <img src="https://www.svgrepo.com/show/513650/diamond.svg" class=" box-icon"></img>
-
-                  <div class="leadsuresubheading mt-3">Core Values</div>
-                </div>
-              </div>
-
-              <div class="col">
-                <div class="highlight-box">
-                  <img src="https://www.svgrepo.com/show/427534/idea-light-lightbulb.svg" class=" box-icon"></img>
-
-                  <div class="leadsuresubheading mt-3">Strategy</div>
-                </div>
-              </div>
-
-              <div class="col">
-                <div class="highlight-box">
-                  <img src="https://www.svgrepo.com/show/261547/research.svg" class=" box-icon"></img>
-
-                  <div class="leadsuresubheading mt-3">Research</div>
-                </div>
-              </div>
-
-              <div class="col">
-                <div class="highlight-box">
-                  <img src="https://www.svgrepo.com/show/308264/global-leader-happy-strong-power.svg" class=" box-icon"></img>
-
-                  <div class="leadsuresubheading mt-3">Leadership</div>
-                </div>
-              </div>
-
-            </div>
-          </div>
-
-        </div>
-        <div class="mission-card-wrapper wow fadeInRight animated" data-wow-delay=".1s">
-          <div class="mission-card">
-            <div class="card-header">
-              <img src="https://www.svgrepo.com/show/322081/conqueror.svg" class="box-icon"></img>
-              <div class="leadsuresubheading">OUR MISSION</div>
-            </div>
-            <p class="leadsurepara">
-              Ultra Touch Power Tool is one of the leading manufacturers and suppliers of premium hardware tools in Mumbai. We specialize in producing high-quality screwdrivers, nuts, bolts, wrenches, and other precision-engineered tools designed for both industrial and household use. Known for durability, accuracy,
-              Ultra Touch Power Tool is one of the leading manufacturers and suppliers of premium hardware tools in Mumbai. We specialize in producing high-quality nuts, bolts, wrenches, and other
-
-          </div>
-        </div>
-
-      </div>
-    </section>
 
 
-    <!-- ***********************seo section code************************* -->
-    <section class="section-highlight leadsure">
-      <div class="container">
-        <div class="row g-2 g-md-3 align-items-start  wow fadeInLeft animated" data-wow-delay=".1s"> <!-- Left Column (Content first now) -->
 
-          <div class="col-lg-12 col-md-7 col-12">
-            <div class="feature-copy h-100"> <input type="checkbox" id="read-more-toggle" class="read-more-toggle"> <!-- Content wrapper -->
-              <div class="seo-content61 leadseo">
-                <h2>Unleash Power and Precision with the Ultra Touch Angle Grinder</h2>
-                <p>The Ultra Touch Angle Grinder is a high-performance power tool built for professionals who value precision, durability, and efficiency. Designed in Mumbai, this tool ensures smooth operation whether you are cutting, grinding, polishing, or finishing metal and concrete surfaces. Its compact yet powerful build makes it a must-have for workshops, fabrication units, and home users alike.</p>
-
-                <h2>Engineered for Performance and Long-Lasting Quality</h2>
-                <p>Each Ultra Touch Angle Grinder is crafted using advanced technology and high-quality components to deliver consistent results even in demanding work conditions. Its powerful motor offers high torque and stable speed, making it perfect for industrial and heavy-duty applications.</p>
-                <p>The ergonomic soft-grip handle provides excellent comfort and control during long hours of use, while its heat-resistant design ensures safety and durability. From construction sites to repair shops, the Ultra Touch Angle Grinder performs flawlessly across various tasks.</p>
-                <p>Whether you need to smooth weld joints, cut through steel pipes, or polish metal surfaces, this grinder combines strength with precision for unmatched results every time.</p>
-
-                <h3>Why Choose Ultra Touch Angle Grinder</h3>
-                <p>The Ultra Touch Angle Grinder is trusted by technicians, builders, and metalworkers across Mumbai for its reliability, performance, and easy maintenance. It’s designed to handle heavy workloads with minimal vibration and maximum output, ensuring efficiency and comfort.</p>
-
-                <p>Each unit is quality-tested to guarantee durability, safety, and smooth performance even in tough conditions. Our commitment to engineering excellence ensures that every user experiences superior power and precision.</p>
-
-                <p>With a focus on technology, durability, and user comfort, the Ultra Touch Angle Grinder stands out as a dependable power tool for every professional and DIY enthusiast in Mumbai.</p>
-                <ul>
-                  <li>Powerful motor for consistent cutting and grinding</li>
-                  <li>Ergonomic and lightweight design for better handling</li>
-                  <li>Durable body structure for long-term use</li>
-                  <li>Ideal for metal fabrication, polishing, and surface finishing</li>
-                </ul>
-
-                <h3>Conclusion</h3>
-                <p>Experience the perfect balance of power, safety, and control with the Ultra Touch Angle Grinder — your trusted power tool partner for industrial and personal projects in Mumbai.</p>
-
-              </div><label for="read-more-toggle" class="read-more-btn"></label>
-            </div>
-          </div>
-
-        </div>
-      </div>
-    </section>
-
+ 
   </main>
 
 

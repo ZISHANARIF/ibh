@@ -78,7 +78,7 @@
         <div class="row g-5 align-items-center">
 
           <div class="col-12 col-lg-6 wow fadeInLeft animated" data-wow-delay=".1s">
-            <h1 class="leadsureheading fs-1">
+            <h1 class="leadsureheading">
               Premium Brass Gearing – Strength, Precision, and Reliability
             </h1>
             <p class="leadsurepara mb-4 ">
@@ -123,13 +123,13 @@
     </section>
 
     <!-- ******************************matrix section code************************** -->
-    <section class="matrix-section pb-5 wow fadeInUp animated" data-wow-delay=".1s">
+    <section class="matrix-section pb-2 pb-md-5 wow fadeInUp animated" data-wow-delay=".1s">
 
       <div class="container-fluid">
 
         <div class="row text-center">
 
-          <div class="col-md-3 col-6">
+          <div class="col-md-3 col-col-6">
 
             <div class="matrix-item">
 
@@ -194,7 +194,7 @@
 
         <div class="row g-2 g-md-4 wow fadeInLeft animated" data-wow-delay=".1s">
 
-          <div class="col-lg-3 col-md-6 col-12">
+          <div class="col-lg-3 col-md-6 col-6">
             <a href="#" class="service-card">
 
               <div class="product-card">
@@ -215,7 +215,7 @@
               </div>
 
               <div class="product-button-wrapper d-flex justify-content-center">
-                <span class="main-btn3">
+                <span class="main-btn">
                   Read More
                   <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-right" viewBox="0 0 16 16">
                     <path fill-rule="evenodd" d="M1 8a.5.5 0 0 1 .5-.5h11.793l-3.147-3.146a.5.5 0 0 1 .708-.708l4 4a.5.5 0 0 1 0 .708l-4 4a.5.5 0 0 1-.708-.708L13.293 8.5H1.5A.5.5 0 0 1 1 8"></path>
@@ -226,7 +226,7 @@
             </a>
           </div>
 
-          <div class="col-lg-3 col-md-6 col-12">
+          <div class="col-lg-3 col-md-6 col-6">
             <a href="#" class="service-card">
 
               <div class="product-card">
@@ -247,7 +247,7 @@
               </div>
 
               <div class="product-button-wrapper d-flex justify-content-center">
-                <span class="main-btn3">
+                <span class="main-btn">
                   Read More
                   <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-right" viewBox="0 0 16 16">
                     <path fill-rule="evenodd" d="M1 8a.5.5 0 0 1 .5-.5h11.793l-3.147-3.146a.5.5 0 0 1 .708-.708l4 4a.5.5 0 0 1 0 .708l-4 4a.5.5 0 0 1-.708-.708L13.293 8.5H1.5A.5.5 0 0 1 1 8"></path>
@@ -258,7 +258,7 @@
             </a>
           </div>
 
-          <div class="col-lg-3 col-md-6 col-12">
+          <div class="col-lg-3 col-md-6 col-6">
             <a href="#" class="service-card">
 
               <div class="product-card">
@@ -273,13 +273,13 @@
                   <div class="leadsuresubheading">
                     Tapered Roller Bearings
                   </div>
-                  <p class="zis3 p-1111">IBH brass gears are manufactured using advanced CNC technology and high-accuracy machining to ensure perfect alignment...</p>
+                  <p class="zis3 p-1">IBH brass gears are manufactured using advanced CNC technology and high-accuracy machining to ensure perfect alignment...</p>
 
                 </div>
               </div>
 
               <div class="product-button-wrapper d-flex justify-content-center">
-                <span class="main-btn3">
+                <span class="main-btn">
                   Read More
                   <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-right" viewBox="0 0 16 16">
                     <path fill-rule="evenodd" d="M1 8a.5.5 0 0 1 .5-.5h11.793l-3.147-3.146a.5.5 0 0 1 .708-.708l4 4a.5.5 0 0 1 0 .708l-4 4a.5.5 0 0 1-.708-.708L13.293 8.5H1.5A.5.5 0 0 1 1 8"></path>
@@ -290,7 +290,7 @@
             </a>
           </div>
 
-          <div class="col-lg-3 col-md-6 col-12">
+          <div class="col-lg-3 col-md-6 col-6">
             <a href="#" class="service-card">
 
               <div class="product-card">
@@ -312,7 +312,7 @@
               </div>
 
               <div class="product-button-wrapper d-flex justify-content-center">
-                <span class="main-btn3">
+                <span class="main-btn">
                   Read More
                   <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-right" viewBox="0 0 16 16">
                     <path fill-rule="evenodd" d="M1 8a.5.5 0 0 1 .5-.5h11.793l-3.147-3.146a.5.5 0 0 1 .708-.708l4 4a.5.5 0 0 1 0 .708l-4 4a.5.5 0 0 1-.708-.708L13.293 8.5H1.5A.5.5 0 0 1 1 8"></path>
@@ -323,7 +323,7 @@
             </a>
           </div>
 
-          <div class="col-lg-3 col-md-6 col-12">
+          <div class="col-lg-3 col-md-6 col-6">
             <a href="#" class="service-card">
 
               <div class="product-card">
@@ -344,7 +344,7 @@
               </div>
 
               <div class="product-button-wrapper d-flex justify-content-center">
-                <span class="main-btn3">
+                <span class="main-btn">
                   Read More
                   <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-right" viewBox="0 0 16 16">
                     <path fill-rule="evenodd" d="M1 8a.5.5 0 0 1 .5-.5h11.793l-3.147-3.146a.5.5 0 0 1 .708-.708l4 4a.5.5 0 0 1 0 .708l-4 4a.5.5 0 0 1-.708-.708L13.293 8.5H1.5A.5.5 0 0 1 1 8"></path>
@@ -355,7 +355,7 @@
             </a>
           </div>
 
-          <div class="col-lg-3 col-md-6 col-12">
+          <div class="col-lg-3 col-md-6 col-6">
             <a href="#" class="service-card">
 
               <div class="product-card">
@@ -376,7 +376,7 @@
               </div>
 
               <div class="product-button-wrapper d-flex justify-content-center">
-                <span class="main-btn3">
+                <span class="main-btn">
                   Read More
                   <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-right" viewBox="0 0 16 16">
                     <path fill-rule="evenodd" d="M1 8a.5.5 0 0 1 .5-.5h11.793l-3.147-3.146a.5.5 0 0 1 .708-.708l4 4a.5.5 0 0 1 0 .708l-4 4a.5.5 0 0 1-.708-.708L13.293 8.5H1.5A.5.5 0 0 1 1 8"></path>
@@ -388,7 +388,7 @@
           </div>
 
 
-          <div class="col-lg-3 col-md-6 col-12">
+          <div class="col-lg-3 col-md-6 col-6">
             <a href="#" class="service-card">
 
               <div class="product-card">
@@ -409,7 +409,7 @@
               </div>
 
               <div class="product-button-wrapper d-flex justify-content-center">
-                <span class="main-btn3">
+                <span class="main-btn">
                   Read More
                   <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-right" viewBox="0 0 16 16">
                     <path fill-rule="evenodd" d="M1 8a.5.5 0 0 1 .5-.5h11.793l-3.147-3.146a.5.5 0 0 1 .708-.708l4 4a.5.5 0 0 1 0 .708l-4 4a.5.5 0 0 1-.708-.708L13.293 8.5H1.5A.5.5 0 0 1 1 8"></path>
@@ -420,7 +420,7 @@
             </a>
           </div>
 
-          <div class="col-lg-3 col-md-6 col-12">
+          <div class="col-lg-3 col-md-6 col-6">
             <a href="#" class="service-card">
 
               <div class="product-card">
@@ -441,7 +441,7 @@
               </div>
 
               <div class="product-button-wrapper d-flex justify-content-center">
-                <span class="main-btn3">
+                <span class="main-btn">
                   Read More
                   <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-right" viewBox="0 0 16 16">
                     <path fill-rule="evenodd" d="M1 8a.5.5 0 0 1 .5-.5h11.793l-3.147-3.146a.5.5 0 0 1 .708-.708l4 4a.5.5 0 0 1 0 .708l-4 4a.5.5 0 0 1-.708-.708L13.293 8.5H1.5A.5.5 0 0 1 1 8"></path>
@@ -1006,7 +1006,7 @@
       </div>
     </div>
 
-
+<!-- ******************************our partner section code***************************** -->
 
     <div class="partners-section leadsure">
 

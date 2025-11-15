@@ -20,9 +20,9 @@
         <!-- ===== Breadcrumb Hero (bc01) ===== -->
         <div class="img-breadcum">
             <div class="container">
-                <img src="https://media.istockphoto.com/id/1401285340/photo/a-set-of-abrasive-grinding-wheels-for-construction-work.jpg?s=612x612&w=0&k=20&c=eU8ZWsReQLI74JN-TkzB1KeEOZN0-9qScpoqWIBVHsg=" loading="lazy" decoding="async" title="About Us" alt="About Us" />
-                <div class="sub-tt">Ultra Touch</div>
-                <h1 class="tt">Ultra Touch</h1>
+                <img src="https://media.istockphoto.com/id/94916159/photo/inside-the-clock.jpg?s=612x612&w=0&k=20&c=1O5Y5p5ufn-ut5xTGRIDyNSPpVIpSRWXNzzRL6xVO0I=" title="About Us" alt="About Us" />
+                <div class="sub-tt">IBH Brass Gear</div>
+                <div class="tt">IBH Brass Gear</div>
             </div>
         </div>
         <div class="breadcum-sec">
@@ -34,342 +34,279 @@
             </div>
         </div>
 
-        <div class="ultproducts-section leadsure">
-            <div class="container">
-                <div class="mb-4">
-
-                    <div class="fw-bold heading-text">
-                        Our <span class="colordhead">Products</span>
-                    </div>
-
-                    <div class="heading-underline"></div>
-
-                </div>
-                <div class="row g-2 g-md-4 justify-content-start wow fadeInUp" data-wow-delay=".2s">
-
-                    <div class="col-6 col-lg-3 col-md-6">
-                        <div class="card h-100 shadow-sm border-0 ultproducts-card">
-                            <a href="category.php">
-                                <div class="ultproducts-img-container">
-                                    <div class="ultproducts-img-ratio">
-                                        <img
-                                            src="https://media.istockphoto.com/id/453256733/photo/ring-polishing.jpg?s=612x612&w=0&k=20&c=AVzmzbknMqbMLetBMrUigsaZ_ackKf8xYVbVAqjEYik="
-                                            class="ultproducts-img-top"
-                                            alt="Product image" loading="lazy" decoding="async">
-                                    </div>
-                                </div>
-                            </a>
-                            <div class="card-body p-2 p-sm-3 p-md-4">
-                                <a href="#" class="ultproducts-title-link">
-                                    <div class="zis1">Angle Grinder</div>
-                                </a>
-
-                                <div class="zis3">
-                                    aliquip exadipiscing elitsed do eiusmod tempor incididunt utlabore etea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur
-                                </div>
-
-
-
-                                <div class="mt-auto d-flex justify-content-evenly mt-1 mt-md-2">
-
-                                    <a href="category.php" title="Read More" class="main-btn"> Read More </a>
-
-                                    <a href="#sendEnquiry" class="main-btn3" data-bs-toggle="modal" title="Send Enquiry" data-bs-target="#sendEnquiry">Send Enquiry</a>
-
-                                </div>
-                            </div>
-
-                        </div>
-                    </div>
-
-                    <div class="col-6 col-lg-3 col-md-6">
-                        <div class="card h-100 shadow-sm border-0 ultproducts-card">
-                            <a href="category.php">
-                                <div class="ultproducts-img-container">
-                                    <div class="ultproducts-img-ratio">
-                                        <img
-                                            src="https://media.istockphoto.com/id/1323805634/photo/man-with-tattoo-cutting-kitchen-countertop-with-saw.jpg?s=612x612&w=0&k=20&c=193hhIDbt9DRWZhD7GVBEWb4u-ZDrnxOhD-ECHJWlgs="
-                                            alt="Product image" loading="lazy" decoding="async">
-                                    </div>
-                                </div>
-                            </a>
-                            <div class="card-body p-2 p-sm-3 p-md-4">
-                                <a href="#" class="ultproducts-title-link">
-                                    <div class="zis1">Marble Cutter</div>
-                                </a>
-
-                                <div class="zis3">
-                                    aliquip exadipiscing elitsed do eiusmod tempor incididunt utlabore etea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur
-                                </div>
-
-
-
-                                <div class="mt-auto d-flex justify-content-evenly mt-1 mt-md-2">
-
-                                    <a href="category.php" title="Read More" class="main-btn"> Read More </a>
-
-                                    <a href="#sendEnquiry" class="main-btn3" data-bs-toggle="modal" title="Send Enquiry" data-bs-target="#sendEnquiry">Send Enquiry</a>
-
-                                </div>
-                            </div>
-
-                        </div>
-                    </div>
-
-
-                    <div class="col-6 col-lg-3 col-md-6">
-                        <div class="card h-100 shadow-sm border-0 ultproducts-card">
-                            <a href="category.php">
-                                <div class="ultproducts-img-container">
-                                    <div class="ultproducts-img-ratio">
-                                        <img
-                                            src="https://media.istockphoto.com/id/2203834147/photo/worker-operating-angle-grinder-with-sparks-flying-during-metal-cutting.jpg?s=612x612&w=0&k=20&c=uY0vKv3nY6EGsKabcJypGPjT3KcQFm7MmRnTcLTEFdw="
-                                            class="ultproducts-img-top"
-                                            alt="Product image" loading="lazy" decoding="async">
-                                    </div>
-                                </div>
-                            </a>
-                            <div class="card-body p-2 p-sm-3 p-md-4">
-                                <a href="#" class="ultproducts-title-link">
-                                    <div class="zis1">Grinding Wheel</div>
-                                </a>
-
-                                <div class="zis3">
-                                    aliquip exadipiscing elitsed do eiusmod tempor incididunt utlabore etea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur
-                                </div>
-
-
-
-                                <div class="mt-auto d-flex justify-content-evenly mt-1 mt-md-2">
-
-                                    <a href="category.php" title="Read More" class="main-btn"> Read More </a>
-
-                                    <a href="#sendEnquiry" class="main-btn3" data-bs-toggle="modal" title="Send Enquiry" data-bs-target="#sendEnquiry">Send Enquiry</a>
-
-                                </div>
-                            </div>
-
-                        </div>
-                    </div>
-
-
-                    <div class="col-6 col-lg-3 col-md-6">
-                        <div class="card h-100 shadow-sm border-0 ultproducts-card">
-                            <a href="category.php">
-                                <div class="ultproducts-img-container">
-                                    <div class="ultproducts-img-ratio">
-                                        <img
-                                            src="https://media.istockphoto.com/id/510153022/photo/electric-grinder.jpg?s=612x612&w=0&k=20&c=LS7IGAA6PNCCbDXJDbcHtMM7-vmMykbDMPOX2Cxj41w="
-                                            class="ultproducts-img-top"
-                                            alt="Product image" loading="lazy" decoding="async">
-                                    </div>
-                                </div>
-                            </a>
-                            <div class="card-body p-2 p-sm-3 p-md-4">
-                                <a href="#" class="ultproducts-title-link">
-                                    <div class="zis1">Cutting Wheel</div>
-                                </a>
-
-                                <div class="zis3">
-                                    aliquip exadipiscing elitsed do eiusmod tempor incididunt utlabore etea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur
-                                </div>
-
-
-
-                                <div class="mt-auto d-flex justify-content-evenly mt-1 mt-md-2">
-
-                                    <a href="category.php" title="Read More" class="main-btn"> Read More </a>
-
-                                    <a href="#sendEnquiry" class="main-btn3" data-bs-toggle="modal" title="Send Enquiry" data-bs-target="#sendEnquiry">Send Enquiry</a>
-
-                                </div>
-                            </div>
-
-                        </div>
-                    </div>
-
-
-                    <div class="col-6 col-lg-3 col-md-6">
-                        <div class="card h-100 shadow-sm border-0 ultproducts-card">
-                            <a href="category.php">
-                                <div class="ultproducts-img-container">
-                                    <div class="ultproducts-img-ratio">
-                                        <img
-                                            src="https://media.istockphoto.com/id/2235975316/photo/close-up-of-a-person-holding-a-heavy-duty-blue-electric-rotary-hammer-drill-in-a-hardware.jpg?s=612x612&w=0&k=20&c=oeXffuFi3XHLr3oyKFk4p_cYe3EtMApsAFBzBYwTBrE="
-                                            class="ultproducts-img-top"
-                                            alt="Product image" loading="lazy" decoding="async">
-                                    </div>
-                                </div>
-                            </a>
-                            <div class="card-body p-2 p-sm-3 p-md-4">
-                                <a href="#" class="ultproducts-title-link">
-                                    <div class="zis1">Rotary Hammer</div>
-                                </a>
-
-                                <div class="zis3">
-                                    aliquip exadipiscing elitsed do eiusmod tempor incididunt utlabore etea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur
-                                </div>
-
-
-
-                                <div class="mt-auto d-flex justify-content-evenly mt-1 mt-md-2">
-
-                                    <a href="category.php" title="Read More" class="main-btn"> Read More </a>
-
-                                    <a href="#sendEnquiry" class="main-btn3" data-bs-toggle="modal" title="Send Enquiry" data-bs-target="#sendEnquiry">Send Enquiry</a>
-
-                                </div>
-                            </div>
-
-                        </div>
-                    </div>
-
-
-                    <div class="col-6 col-lg-3 col-md-6">
-                        <div class="card h-100 shadow-sm border-0 ultproducts-card">
-                            <a href="category.php">
-                                <div class="ultproducts-img-container">
-                                    <div class="ultproducts-img-ratio">
-                                        <img
-                                            src="https://media.istockphoto.com/id/2235974481/photo/a-mechanic-wearing-protective-gloves-holds-a-cordless-wrench-next-to-a-car-engine-concept.jpg?s=612x612&w=0&k=20&c=6bJx5kZnz1xOz8AQhp3RxZGVf5C9JkvhUAw6LuBkdbo="
-                                            class="ultproducts-img-top"
-                                            alt="Product image" loading="lazy" decoding="async">
-                                    </div>
-                                </div>
-                            </a>
-                            <div class="card-body p-2 p-sm-3 p-md-4">
-                                <a href="#" class="ultproducts-title-link">
-                                    <div class="zis1">Cordless Drill Machine</div>
-                                </a>
-
-                                <div class="zis3">
-                                    aliquip exadipiscing elitsed do eiusmod tempor incididunt utlabore etea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur
-                                </div>
-
-
-
-                                <div class="mt-auto d-flex justify-content-evenly mt-1 mt-md-2">
-
-                                    <a href="category.php" title="Read More" class="main-btn"> Read More </a>
-
-                                    <a href="#sendEnquiry" class="main-btn3" data-bs-toggle="modal" title="Send Enquiry" data-bs-target="#sendEnquiry">Send Enquiry</a>
-
-                                </div>
-                            </div>
-
-                        </div>
-                    </div>
-
-                    <div class="col-6 col-lg-3 col-md-6">
-                        <div class="card h-100 shadow-sm border-0 ultproducts-card">
-                            <a href="category.php">
-                                <div class="ultproducts-img-container">
-                                    <div class="ultproducts-img-ratio">
-                                        <img
-                                            src="https://media.istockphoto.com/id/1401285340/photo/a-set-of-abrasive-grinding-wheels-for-construction-work.jpg?s=612x612&w=0&k=20&c=eU8ZWsReQLI74JN-TkzB1KeEOZN0-9qScpoqWIBVHsg="
-                                            class="ultproducts-img-top"
-                                            alt="Product image" loading="lazy" decoding="async">
-                                    </div>
-                                </div>
-                            </a>
-                            <div class="card-body p-2 p-sm-3 p-md-4">
-                                <a href="#" class="ultproducts-title-link">
-                                    <div class="zis1">Flap Wheel</div>
-                                </a>
-
-                                <div class="zis3">
-                                    aliquip exadipiscing elitsed do eiusmod tempor incididunt utlabore etea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur
-                                </div>
-
-
-
-                                <div class="mt-auto d-flex justify-content-evenly mt-1 mt-md-2">
-
-                                    <a href="category.php" title="Read More" class="main-btn"> Read More </a>
-
-                                    <a href="#sendEnquiry" class="main-btn3" data-bs-toggle="modal" title="Send Enquiry" data-bs-target="#sendEnquiry">Send Enquiry</a>
-
-                                </div>
-                            </div>
-
-                        </div>
-                    </div>
-
-
-                    <div class="col-6 col-lg-3 col-md-6">
-                        <div class="card h-100 shadow-sm border-0 ultproducts-card">
-                            <a href="category.php">
-                                <div class="ultproducts-img-container">
-                                    <div class="ultproducts-img-ratio">
-                                        <img
-                                            src="https://media.istockphoto.com/id/2000436983/photo/diamond-polishers-at-work-at-the-wheel-in-the-diamond-polishing-factory.jpg?s=612x612&w=0&k=20&c=e36JqRgjfu0ijIBU_HOJF5r9U4geHNHnjDsxc7ylnbw="
-                                            class="ultproducts-img-top"
-                                            alt="Product image" loading="lazy" decoding="async">
-                                    </div>
-                                </div>
-                            </a>
-                            <div class="card-body p-2 p-sm-3 p-md-4">
-                                <a href="#" class="ultproducts-title-link">
-                                    <div class="zis1">Polishing Wheel</div>
-                                </a>
-
-                                <div class="zis3">
-                                    aliquip exadipiscing elitsed do eiusmod tempor incididunt utlabore etea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur
-                                </div>
-
-
-
-                                <div class="mt-auto d-flex justify-content-evenly mt-1 mt-md-2">
-
-                                    <a href="category.php" title="Read More" class="main-btn"> Read More </a>
-
-                                    <a href="#sendEnquiry" class="main-btn3" data-bs-toggle="modal" title="Send Enquiry" data-bs-target="#sendEnquiry">Send Enquiry</a>
-
-                                </div>
-                            </div>
-
-                        </div>
-                    </div>
-
-                    <div class="col-6 col-lg-3 col-md-6">
-                        <div class="card h-100 shadow-sm border-0 ultproducts-card">
-                            <a href="category.php">
-                                <div class="ultproducts-img-container">
-                                    <div class="ultproducts-img-ratio">
-                                        <img
-                                            src="https://media.istockphoto.com/id/2173067881/photo/circular-saw-machine-blades-for-wood.jpg?s=612x612&w=0&k=20&c=7ylBrSN03pV09mQUM7YCj1rHFTIzXSP9QqizL0hxqj4="
-                                            class="ultproducts-img-top"
-                                            alt="Product image" loading="lazy" decoding="async">
-                                    </div>
-                                </div>
-                            </a>
-                            <div class="card-body p-2 p-sm-3 p-md-4">
-                                <a href="#" class="ultproducts-title-link">
-                                    <div class="zis1">Saw Blade</div>
-                                </a>
-
-                                <div class="zis3">
-                                    aliquip exadipiscing elitsed do eiusmod tempor incididunt utlabore etea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur
-                                </div>
-                                <div class="mt-auto d-flex justify-content-evenly mt-1 mt-md-2">
-
-                                    <a href="category.php" title="Read More" class="main-btn"> Read More </a>
-
-                                    <a href="#sendEnquiry" class="main-btn3" data-bs-toggle="modal" title="Send Enquiry" data-bs-target="#sendEnquiry">Send Enquiry</a>
-                                </div>
-                            </div>
-
-                        </div>
-                    </div>
-
-
-
-
-
-                </div>
-            </div>
+        <!-- *********************************Our products section form SECTION******************* -->
+
+       <section class="product-range-section leadsure">
+        <div class="container">
+        <div class="text-center">
+          <div class="section-title">Our Products Range</div>
         </div>
 
+        <div class="row g-2 g-md-4 wow fadeInLeft animated" data-wow-delay=".1s">
+
+          <div class="col-lg-3 col-md-6 col-6">
+            <a href="category.php" class="service-card">
+
+              <div class="product-card">
+                <div class="product-default-content">
+                  <img src="https://media.istockphoto.com/id/509193042/photo/cvt-gearbox-repair-closeup.jpg?s=612x612&w=0&k=20&c=fv4ZK7KYFn4Sh_tLY593P55_lvFmEu5bEVEKwFtwBm8=" alt="Ball Bearings" class="img-fluid mb-4">
+                  <div class="zis1">Ball Bearings </div>
+                  <p class="zis3 p-1">IBH brass gears are manufactured using advanced CNC technology and high-accuracy machining to ensure perfect alignment...</p>
+                </div>
+
+                <div class="product-hover-content">
+                  <img src="https://media.istockphoto.com/id/582256640/photo/oil-refinery-chemical-petrochemical-plant.jpg?s=612x612&w=0&k=20&c=BEdsHVe2vUfzRTb9KcsCS_tCH6_R_nKLKkOQCht8AKo=" alt="Ball Bearings in use" class="product-hover-image">
+                  <div class="leadsuresubheading">
+                    Ball Bearings
+                  </div>
+                  <p class="zis3 p-1">IBH brass gears are manufactured using advanced CNC technology and high-accuracy machining to ensure perfect alignment...</p>
+
+                </div>
+              </div>
+
+              <div class="product-button-wrapper d-flex justify-content-center">
+                <span class="main-btn">
+                  Read More
+                  <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-right" viewBox="0 0 16 16">
+                    <path fill-rule="evenodd" d="M1 8a.5.5 0 0 1 .5-.5h11.793l-3.147-3.146a.5.5 0 0 1 .708-.708l4 4a.5.5 0 0 1 0 .708l-4 4a.5.5 0 0 1-.708-.708L13.293 8.5H1.5A.5.5 0 0 1 1 8"></path>
+                  </svg>
+                </span>
+              </div>
+
+            </a>
+          </div>
+
+          <div class="col-lg-3 col-md-6 col-6">
+            <a href="#" class="service-card">
+
+              <div class="product-card">
+                <div class="product-default-content">
+                  <img src="https://media.istockphoto.com/id/844050182/photo/the-metal-ball-bearing-spare-part.jpg?s=612x612&w=0&k=20&c=CwSquKO9-eDZFOO2EUX7aXEEkPM36iLvpAtErotuft0=" alt="Ball Bearings" class="img-fluid mb-4">
+                  <div class="zis1">Cylindrical Roller Bearing</div>
+                  <p class="zis3 p-1">IBH brass gears are manufactured using advanced CNC technology and high-accuracy machining to ensure perfect alignment...</p>
+                </div>
+
+                <div class="product-hover-content">
+                  <img src="https://media.istockphoto.com/id/1452806046/photo/offshore-oil-drilling-rig-at-dusk-near-huntington-beach.jpg?s=612x612&w=0&k=20&c=W_76PsF5s3tAs2eAihbUZH6yQeFOaVesVDIRCLh-EMA=" alt="Ball Bearings in use" class="product-hover-image">
+                  <div class="leadsuresubheading">
+                    Cylindrical Roller Bearing
+                  </div>
+                  <p class="zis3 p-1">IBH brass gears are manufactured using advanced CNC technology and high-accuracy machining to ensure perfect alignment...</p>
+
+                </div>
+              </div>
+
+              <div class="product-button-wrapper d-flex justify-content-center">
+                <span class="main-btn">
+                  Read More
+                  <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-right" viewBox="0 0 16 16">
+                    <path fill-rule="evenodd" d="M1 8a.5.5 0 0 1 .5-.5h11.793l-3.147-3.146a.5.5 0 0 1 .708-.708l4 4a.5.5 0 0 1 0 .708l-4 4a.5.5 0 0 1-.708-.708L13.293 8.5H1.5A.5.5 0 0 1 1 8"></path>
+                  </svg>
+                </span>
+              </div>
+
+            </a>
+          </div>
+
+          <div class="col-lg-3 col-md-6 col-6">
+            <a href="#" class="service-card">
+
+              <div class="product-card">
+                <div class="product-default-content">
+                  <img src="https://media.istockphoto.com/id/2152190078/photo/measure-caliper-and-roller-bearings-on-cutting-mat.jpg?s=612x612&w=0&k=20&c=7-kWv6LwBahunhVsnspG8XD1xt5rUR11Vh5khQ6cobk=" alt="Ball Bearings" class="img-fluid mb-4">
+                  <div class="zis1">Tapered Roller Bearings</div>
+                  <p class="zis3 p-1">IBH brass gears are manufactured using advanced CNC technology and high-accuracy machining to ensure perfect alignment...</p>
+                </div>
+
+                <div class="product-hover-content">
+                  <img src="https://media.istockphoto.com/id/470309496/photo/oil-refinery-at-evening.jpg?s=612x612&w=0&k=20&c=jeUXMJTMZRsJmojNf1K0i3Tq2dGM0Cv4RRExtGJVKao=" alt="Ball Bearings in use" class="product-hover-image">
+                  <div class="leadsuresubheading">
+                    Tapered Roller Bearings
+                  </div>
+                  <p class="zis3 p-1">IBH brass gears are manufactured using advanced CNC technology and high-accuracy machining to ensure perfect alignment...</p>
+
+                </div>
+              </div>
+
+              <div class="product-button-wrapper d-flex justify-content-center">
+                <span class="main-btn">
+                  Read More
+                  <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-right" viewBox="0 0 16 16">
+                    <path fill-rule="evenodd" d="M1 8a.5.5 0 0 1 .5-.5h11.793l-3.147-3.146a.5.5 0 0 1 .708-.708l4 4a.5.5 0 0 1 0 .708l-4 4a.5.5 0 0 1-.708-.708L13.293 8.5H1.5A.5.5 0 0 1 1 8"></path>
+                  </svg>
+                </span>
+              </div>
+
+            </a>
+          </div>
+
+          <div class="col-lg-3 col-md-6 col-6">
+            <a href="#" class="service-card">
+
+              <div class="product-card">
+                <div class="product-default-content">
+                  <img src="https://media.istockphoto.com/id/1336355408/photo/preliminary-assembly-of-the-mechanism-with-an-installed-shaft-and-bearing.jpg?s=612x612&w=0&k=20&c=jdyAcguEdEQnIwuru8XkRS0BmhqU3asjAeHdtH5vHEs=" alt="Ball Bearings" class="img-fluid mb-4">
+                  <div class="zis1">Plummer Block Housing</div>
+                  <p class="zis3 p-1">IBH brass gears are manufactured using advanced CNC technology and high-accuracy machining to ensure perfect alignment...</p>
+                </div>
+
+                <div class="product-hover-content">
+                  <img src="https://media.istockphoto.com/id/1336355408/photo/preliminary-assembly-of-the-mechanism-with-an-installed-shaft-and-bearing.jpg?s=612x612&w=0&k=20&c=jdyAcguEdEQnIwuru8XkRS0BmhqU3asjAeHdtH5vHEs=" alt="Ball Bearings in use" class="product-hover-image">
+                  <div class="zis1">
+                    Plummer Block Housing
+                  </div>
+                  <p class="zis3 p-1">IBH brass gears are manufactured using advanced CNC technology and high-accuracy machining to ensure perfect alignment...</p>
+
+                </div>
+
+              </div>
+
+              <div class="product-button-wrapper d-flex justify-content-center">
+                <span class="main-btn">
+                  Read More
+                  <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-right" viewBox="0 0 16 16">
+                    <path fill-rule="evenodd" d="M1 8a.5.5 0 0 1 .5-.5h11.793l-3.147-3.146a.5.5 0 0 1 .708-.708l4 4a.5.5 0 0 1 0 .708l-4 4a.5.5 0 0 1-.708-.708L13.293 8.5H1.5A.5.5 0 0 1 1 8"></path>
+                  </svg>
+                </span>
+              </div>
+
+            </a>
+          </div>
+
+          <div class="col-lg-3 col-md-6 col-6">
+            <a href="#" class="service-card">
+
+              <div class="product-card">
+                <div class="product-default-content">
+                  <img src="https://media.istockphoto.com/id/1317729295/photo/close-up-of-lubricant-grease-in-hand-mechanic-for-putting-into-ball-bearing-in-the-industrial.jpg?s=612x612&w=0&k=20&c=JJu_PqcwG5Hd9BCpFWnRe-lwy5hMY4eqm90WCCDhg7g=" alt="Ball Bearings" class="img-fluid mb-4">
+                  <div class="zis1">Spherical Roller Bearings</div>
+                  <p class="zis3 p-1">IBH brass gears are manufactured using advanced CNC technology and high-accuracy machining to ensure perfect alignment...</p>
+                </div>
+
+                <div class="product-hover-content">
+                  <img src="https://media.istockphoto.com/id/522556128/photo/large-factory-detail-at-night.jpg?s=612x612&w=0&k=20&c=IxSLeUmBPqRA9_JfcUS0na9ajnXsu1MgURxHO3X1BU0=" alt="Ball Bearings in use" class="product-hover-image">
+                  <div class="leadsuresubheading">
+                    Spherical Roller Bearings
+                  </div>
+                  <p class="zis3 p-1">IBH brass gears are manufactured using advanced CNC technology and high-accuracy machining to ensure perfect alignment...</p>
+
+                </div>
+              </div>
+
+              <div class="product-button-wrapper d-flex justify-content-center">
+                <span class="main-btn">
+                  Read More
+                  <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-right" viewBox="0 0 16 16">
+                    <path fill-rule="evenodd" d="M1 8a.5.5 0 0 1 .5-.5h11.793l-3.147-3.146a.5.5 0 0 1 .708-.708l4 4a.5.5 0 0 1 0 .708l-4 4a.5.5 0 0 1-.708-.708L13.293 8.5H1.5A.5.5 0 0 1 1 8"></path>
+                  </svg>
+                </span>
+              </div>
+
+            </a>
+          </div>
+
+          <div class="col-lg-3 col-md-6 col-6">
+            <a href="#" class="service-card">
+
+              <div class="product-card">
+                <div class="product-default-content">
+                  <img src="https://media.istockphoto.com/id/1043729344/photo/cutaway-part-of-the-metal-ball-bearing-in-the-light-blue-scene-with-lighting-effect.jpg?s=612x612&w=0&k=20&c=uLaQgscAZNQub7IOmQ9zpQa0dXU2efQ04xtCk4KSyKY=" alt="Ball Bearings" class="img-fluid mb-4">
+                  <div class="zis1">Thrust Ball Bearings</div>
+                  <p class="zis3 p-1">IBH brass gears are manufactured using advanced CNC technology and high-accuracy machining to ensure perfect alignment...</p>
+                </div>
+
+                <div class="product-hover-content">
+                  <img src="https://media.istockphoto.com/id/1043729344/photo/cutaway-part-of-the-metal-ball-bearing-in-the-light-blue-scene-with-lighting-effect.jpg?s=612x612&w=0&k=20&c=uLaQgscAZNQub7IOmQ9zpQa0dXU2efQ04xtCk4KSyKY=" alt="Ball Bearings in use" class="product-hover-image">
+                  <div class="leadsuresubheading">
+                    Thrust Ball Bearings
+                  </div>
+                  <p class="zis3 p-1">IBH brass gears are manufactured using advanced CNC technology and high-accuracy machining to ensure perfect alignment...</p>
+
+                </div>
+              </div>
+
+              <div class="product-button-wrapper d-flex justify-content-center">
+                <span class="main-btn">
+                  Read More
+                  <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-right" viewBox="0 0 16 16">
+                    <path fill-rule="evenodd" d="M1 8a.5.5 0 0 1 .5-.5h11.793l-3.147-3.146a.5.5 0 0 1 .708-.708l4 4a.5.5 0 0 1 0 .708l-4 4a.5.5 0 0 1-.708-.708L13.293 8.5H1.5A.5.5 0 0 1 1 8"></path>
+                  </svg>
+                </span>
+              </div>
+
+            </a>
+          </div>
+
+
+          <div class="col-lg-3 col-md-6 col-6">
+            <a href="#" class="service-card">
+
+              <div class="product-card">
+                <div class="product-default-content">
+                  <img src="https://media.istockphoto.com/id/1818221245/photo/roller-bearing-close-up-shot.jpg?s=612x612&w=0&k=20&c=W1ScVtOH2S-hTJKLmiO-V1wVurOX5Ys9w7EnJ3WI0xc=" alt="Ball Bearings" class="img-fluid mb-4">
+                  <div class="zis1">Spherical Roller Thrust Bearings</div>
+                  <p class="zis3 p-1">IBH brass gears are manufactured using advanced CNC technology and high-accuracy machining to ensure perfect alignment...</p>
+                </div>
+
+                <div class="product-hover-content">
+                  <img src="https://media.istockphoto.com/id/1818221245/photo/roller-bearing-close-up-shot.jpg?s=612x612&w=0&k=20&c=W1ScVtOH2S-hTJKLmiO-V1wVurOX5Ys9w7EnJ3WI0xc=" alt="Ball Bearings in use" class="product-hover-image">
+                  <div class="leadsuresubheading">
+                    Spherical Roller Thrust Bearings
+                  </div>
+                  <p class="zis3 p-1">IBH brass gears are manufactured using advanced CNC technology and high-accuracy machining to ensure perfect alignment...</p>
+
+                </div>
+              </div>
+
+              <div class="product-button-wrapper d-flex justify-content-center">
+                <span class="main-btn">
+                  Read More
+                  <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-right" viewBox="0 0 16 16">
+                    <path fill-rule="evenodd" d="M1 8a.5.5 0 0 1 .5-.5h11.793l-3.147-3.146a.5.5 0 0 1 .708-.708l4 4a.5.5 0 0 1 0 .708l-4 4a.5.5 0 0 1-.708-.708L13.293 8.5H1.5A.5.5 0 0 1 1 8"></path>
+                  </svg>
+                </span>
+              </div>
+
+            </a>
+          </div>
+
+          <div class="col-lg-3 col-md-6 col-6">
+            <a href="#" class="service-card">
+
+              <div class="product-card">
+                <div class="product-default-content">
+                  <img src="https://media.istockphoto.com/id/491519555/photo/gear-transmission-machine-and-steel-cog-wheels-on-isolated-background.jpg?s=612x612&w=0&k=20&c=EiKmZurfg5dYZ4dtF4MojOS4kXtRHUL4diXpiw3tqXg=" alt="Ball Bearings" class="img-fluid mb-4">
+                  <div class="zis1">Precision Machine Tool Bearings</div>
+                  <p class="zis3 p-1">IBH brass gears are manufactured using advanced CNC technology and high-accuracy machining to ensure perfect alignment...</p>
+                </div>
+
+                <div class="product-hover-content">
+                  <img src="https://media.istockphoto.com/id/491519555/photo/gear-transmission-machine-and-steel-cog-wheels-on-isolated-background.jpg?s=612x612&w=0&k=20&c=EiKmZurfg5dYZ4dtF4MojOS4kXtRHUL4diXpiw3tqXg=" alt="Ball Bearings in use" class="product-hover-image">
+                  <div class="leadsuresubheading">
+                    Precision Machine Tool Bearings
+                  </div>
+                  <p class="zis3 p-1">IBH brass gears are manufactured using advanced CNC technology and high-accuracy machining to ensure perfect alignment...</p>
+
+                </div>
+              </div>
+
+              <div class="product-button-wrapper d-flex justify-content-center">
+                <span class="main-btn">
+                  Read More
+                  <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-right" viewBox="0 0 16 16">
+                    <path fill-rule="evenodd" d="M1 8a.5.5 0 0 1 .5-.5h11.793l-3.147-3.146a.5.5 0 0 1 .708-.708l4 4a.5.5 0 0 1 0 .708l-4 4a.5.5 0 0 1-.708-.708L13.293 8.5H1.5A.5.5 0 0 1 1 8"></path>
+                  </svg>
+                </span>
+              </div>
+
+            </a>
+          </div>
+
+
+
+        </div>
+      </div>
+    </section>
 
 
 

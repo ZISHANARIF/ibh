@@ -18,21 +18,21 @@
     <main>
 
     <!-- ===== Breadcrumb Hero (bc01) ===== -->
-<div class="img-breadcum">
-        <div class="container">
-            <img src="https://media.istockphoto.com/id/492201907/photo/many-tools.jpg?s=612x612&w=0&k=20&c=zCuvI6bjhmpsGkbvKK6vBI6Zovv_bRgIrDNSAC3x3tM="  loading="lazy"  decoding="async"  title="About Us" alt="About Us" />
-            <div class="sub-tt">Ultra Touch</div>
-            <h1 class="tt">Ultra Touch</h1>
-        </div>
+    <div class="img-breadcum">
+      <div class="container">
+        <img src="https://media.istockphoto.com/id/94916159/photo/inside-the-clock.jpg?s=612x612&w=0&k=20&c=1O5Y5p5ufn-ut5xTGRIDyNSPpVIpSRWXNzzRL6xVO0I="title="About Us" alt="About Us" />
+        <div class="sub-tt">IBH Brass Gear</div>
+        <div class="tt">IBH Brass Gear</div>
+      </div>
     </div>
     <div class="breadcum-sec">
-        <div class="container">
-            <ul>
-                <li><a href="./index.php" title="Home">Home</a></li>
-                <li>Blogs</li>
-            </ul>
-        </div>
-</div>
+      <div class="container">
+        <ul>
+          <li><a href="/index.php" title="Home">Home</a></li>
+          <li>About Us</li>
+        </ul>
+      </div>
+    </div>
 
 
   <section class="latest-news-section leadsure">
